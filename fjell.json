@@ -1,0 +1,4334 @@
+[
+  {
+    "Pf": "2370",
+    "name": "Galdhøpiggen",
+    "MASL": "2469",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′11″N 08°18′45″Ø",
+      "UTM": "463550 6833850",
+      "longitude": "8.31226",
+      "latitude": "61.63624"
+    },
+    "uid": "3eb9141921c22ac49236d0284f535ea29b94be3746895c42a7a470482c6ceafb",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B211%E2%80%B3N%2008%C2%B018%E2%80%B245%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.31226/61.63624",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "990",
+    "name": "Glittertinden",
+    "MASL": "2460",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°39′04″N 08°33′28″Ø",
+      "UTM": "476550 6835400",
+      "longitude": "8.55734",
+      "latitude": "61.65116"
+    },
+    "uid": "7609e6095d761d4aa428c3e904cf2483281f5ab489a61a38e3c9cd97385e8cd2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B039%E2%80%B204%E2%80%B3N%2008%C2%B033%E2%80%B228%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55734/61.65116",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "1015",
+    "name": "Skagastølstind, Store",
+    "MASL": "2405",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′41″N 07°52′19″Ø",
+      "UTM": "439850 6814700",
+      "longitude": "7.87143",
+      "latitude": "61.46138"
+    },
+    "uid": "ce0e95fa1cf3b639c3da2ee4fde1b348360d51be9618545c1a50e85599b2e744",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B241%E2%80%B3N%2007%C2%B052%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.87143/61.46138",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "155",
+    "name": "Styggedalstind ØT, Store",
+    "MASL": "2387",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′52″N 07°54′08″Ø",
+      "UTM": "441450 6815000",
+      "longitude": "7.90135",
+      "latitude": "61.46432"
+    },
+    "uid": "2f4224605dbdf4e0ce127130962b307631375e944f3c38907c48dc6043313693",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B252%E2%80%B3N%2007%C2%B054%E2%80%B208%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.90135/61.46432",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "280",
+    "name": "Skardstinden",
+    "MASL": "2373",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′00″N 08°15′55″Ø",
+      "UTM": "461100 6833550",
+      "longitude": "8.26611",
+      "latitude": "61.63330"
+    },
+    "uid": "29da1cc3ddbc88b4c53de0df82b2b4e68189b5a7c0e6d6114caa9f4433795dd7",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B200%E2%80%B3N%2008%C2%B015%E2%80%B255%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26611/61.63330",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "150",
+    "name": "Veslepiggen",
+    "MASL": "2369",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′27″N 08°18′23″Ø",
+      "UTM": "463250 6834350",
+      "longitude": "8.30650",
+      "latitude": "61.64070"
+    },
+    "uid": "b14779ebb1678508e1e91874204e67ad142e76f43ac0894544e7e8faefe97a65",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B227%E2%80%B3N%2008%C2%B018%E2%80%B223%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30650/61.64070",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "710",
+    "name": "Surtningssui, Store",
+    "MASL": "2368",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°32′03″N 08°34′21″Ø",
+      "UTM": "477250 6822350",
+      "longitude": "8.57217",
+      "latitude": "61.53406"
+    },
+    "uid": "73f58b571350cd1b5beab95a739653bcec6f86d56de8d75e874cd849a4e2d574",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B203%E2%80%B3N%2008%C2%B034%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57217/61.53406",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "334",
+    "name": "Memurutinden ØT, Store",
+    "MASL": "2364",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′03″N 08°29′17″Ø",
+      "UTM": "472800 6826100",
+      "longitude": "8.48793",
+      "latitude": "61.56743"
+    },
+    "uid": "f739b6ae06b50afee5071a06b2a4e8576cf91dcfa55052f794fe98fe33c39c0a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B203%E2%80%B3N%2008%C2%B029%E2%80%B217%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.48793/61.56743",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "120",
+    "name": "Gjertvasstinden",
+    "MASL": "2351",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′53″N 07°54′40″Ø",
+      "UTM": "441900 6815000",
+      "longitude": "7.90979",
+      "latitude": "61.46438"
+    },
+    "uid": "ec120444f6864454817fea80ee2df2995392bab7fb6d1a8e736ec79910309223",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B253%E2%80%B3N%2007%C2%B054%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.90979/61.46438",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "115",
+    "name": "Sentraltinden",
+    "MASL": "2348",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′49″N 07°52′57″Ø",
+      "UTM": "440450 6814950",
+      "longitude": "7.88261",
+      "latitude": "61.46372"
+    },
+    "uid": "1152117fc41e2cd120c89e846e5dcaff82a1e9b250d3158fdfa1a5584ba0cfa5",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B249%E2%80%B3N%2007%C2%B052%E2%80%B257%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.88261/61.46372",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "450",
+    "name": "Hellstugutinden, Store",
+    "MASL": "2345",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′40″N 08°25′40″Ø",
+      "UTM": "469600 6823550",
+      "longitude": "8.42811",
+      "latitude": "61.54430"
+    },
+    "uid": "6280bbaaa66f7010d13716cf3bd52eac23d5ade3e4497f03a767787c384f333b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B240%E2%80%B3N%2008%C2%B025%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.42811/61.54430",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Storjuvtinden",
+    "MASL": "2344",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°37′49″N 08°17′37″Ø",
+      "UTM": "462550 6833200",
+      "longitude": "8.29353",
+      "latitude": "61.63030"
+    },
+    "uid": "43ba7dfbb24431c6ade836b9a7238638ee13fec9979a74ba60e64f31f02e06e9",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B249%E2%80%B3N%2008%C2%B017%E2%80%B237%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.29353/61.63030",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "960",
+    "name": "Knutsholstinden, Store",
+    "MASL": "2341",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′27″N 08°33′44″Ø",
+      "UTM": "476650 6810150",
+      "longitude": "8.56243",
+      "latitude": "61.42450"
+    },
+    "uid": "b502005ecd95563bfbb470a50b0686dff0df23e4ff717ee7849b93bb6b646d3e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B227%E2%80%B3N%2008%C2%B033%E2%80%B244%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.56243/61.42450",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Vetle Skagastølstinden",
+    "MASL": "2340",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′52″N 07°52′27″Ø",
+      "UTM": "439995 6815045",
+      "longitude": "7.87404",
+      "latitude": "61.46450"
+    },
+    "uid": "347c08e50c9c8c2a9e0e862783c76660846a32e91e4319c09527a92f2dec4ef0",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B252%E2%80%B3N%2007%C2%B052%E2%80%B227%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.87404/61.46450",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "158",
+    "name": "Hellstugutinden, Midtre",
+    "MASL": "2340",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′06″N 08°25′28″Ø",
+      "UTM": "469400 6824350",
+      "longitude": "8.42422",
+      "latitude": "61.55147"
+    },
+    "uid": "1611749604675520d56c20b1f274c4a8967dc2da38b13846a8c3162739bc39da",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B206%E2%80%B3N%2008%C2%B025%E2%80%B228%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.42422/61.55147",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "340",
+    "name": "Tjønnholstinden",
+    "MASL": "2331",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°26′41″N 08°38′46″Ø",
+      "UTM": "481150 6812400",
+      "longitude": "8.64652",
+      "latitude": "61.44494"
+    },
+    "uid": "d40ffdc003cb789a1ad4c99119eaa5d920881016bd8d13b67bd02e52d5c3640d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B241%E2%80%B3N%2008%C2%B038%E2%80%B246%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.64652/61.44494",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "290",
+    "name": "Leirhøe",
+    "MASL": "2330",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′28″N 08°28′01″Ø",
+      "UTM": "471700 6828750",
+      "longitude": "8.46682",
+      "latitude": "61.59114"
+    },
+    "uid": "db865f1642a4566517c80722f44ccfc7d1a711b05971fa80e12573305886dfbf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B228%E2%80%B3N%2008%C2%B028%E2%80%B201%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.46682/61.59114",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "350",
+    "name": "Bukkehøe",
+    "MASL": "2314",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′15″N 08°15′57″Ø",
+      "UTM": "461050 6830300",
+      "longitude": "8.26585",
+      "latitude": "61.60412"
+    },
+    "uid": "a5232e6f474c40bd0cd7eef46f7f6e7923b3e35d5715c864a944bfb9ea962473",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B215%E2%80%B3N%2008%C2%B015%E2%80%B257%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26585/61.60412",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "180",
+    "name": "Store Tverråtinden",
+    "MASL": "2309",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′55″N 08°18′07″Ø",
+      "UTM": "462950 6831500",
+      "longitude": "8.30142",
+      "latitude": "61.61508"
+    },
+    "uid": "eb52c9f3520e8d6309a6347138bebebd708e9ab7c4c5569ee5352f6d43b3e7c6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B255%E2%80%B3N%2008%C2%B018%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30142/61.61508",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Ymelstinden",
+    "MASL": "2304",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°37′39″N 08°17′17″Ø",
+      "UTM": "462250 6832900",
+      "longitude": "8.28793",
+      "latitude": "61.62758"
+    },
+    "uid": "dc7af00a9c4f54923398516957bd511a0e8f58082de38d0d0b309c11dd7869bc",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B239%E2%80%B3N%2008%C2%B017%E2%80%B217%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.28793/61.62758",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "95",
+    "name": "Tverråtinden, Midtre",
+    "MASL": "2302",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′52″N 08°18′56″Ø",
+      "UTM": "463700 6831400",
+      "longitude": "8.31558",
+      "latitude": "61.61426"
+    },
+    "uid": "07870fee8ff0acdb004593068884607be7a9626c649bdae0320fc81c3feeec82",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B252%E2%80%B3N%2008%C2%B018%E2%80%B256%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.31558/61.61426",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Sørtoppen (Surtningssui)[2]",
+    "MASL": "2302",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°31′39″N 08°34′53″Ø",
+      "UTM": "477700 6821650",
+      "longitude": "8.58072",
+      "latitude": "61.52780"
+    },
+    "uid": "f6cd9c53c25f399970681386d6c22c728f9504507f62ded063a26cd9ff17f3e4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B239%E2%80%B3N%2008%C2%B034%E2%80%B253%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.58072/61.52780",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "170",
+    "name": "Austre Memurutinden, Ø-1",
+    "MASL": "2301",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°33′56″N 08°30′27″Ø",
+      "UTM": "473850 6825900",
+      "longitude": "8.50773",
+      "latitude": "61.56571"
+    },
+    "uid": "1b578c77cc617c6c480594746bc86accde46dd734cf93c9647af9628df0e2b8e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B256%E2%80%B3N%2008%C2%B030%E2%80%B227%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.50773/61.56571",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Trollsteineggi",
+    "MASL": "2300",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°39′37″N 08°33′31″Ø",
+      "UTM": "476600 6836400",
+      "longitude": "8.55815",
+      "latitude": "61.66014"
+    },
+    "uid": "8ac28de0f2be5692f9db3491b420f64a9a87fa471b4a3e40bd91daafa3f9c9b2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B039%E2%80%B237%E2%80%B3N%2008%C2%B033%E2%80%B231%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55815/61.66014",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "270",
+    "name": "Austre Leirungstinden",
+    "MASL": "2288",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′18″N 08°36′03″Ø",
+      "UTM": "478700 6809850",
+      "longitude": "8.60087",
+      "latitude": "61.42193"
+    },
+    "uid": "216ff11463665c55e359166fa22c8be4c1b2f8f4a146986012c343745540f8bc",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B218%E2%80%B3N%2008%C2%B036%E2%80%B203%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.60087/61.42193",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "1675",
+    "name": "Snøhetta, Stortoppen",
+    "MASL": "2286",
+    "map": "1519 IV «Snøhetta»",
+    "coordinates": {
+      "DMS": "62°19′12″N 09°16′06″Ø",
+      "UTM": "513900 6909850",
+      "longitude": "9.26820",
+      "latitude": "62.31993"
+    },
+    "uid": "03da7793babc11c80fc83130fdc94ce0091697f36c924885f951de56acadb809",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B019%E2%80%B212%E2%80%B3N%2009%C2%B016%E2%80%B206%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.26820/62.31993",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Skagastølstind, Midtre",
+    "MASL": "2284",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°28′05″N 07°52′08″Ø",
+      "UTM": "439700 6815450",
+      "longitude": "7.86838",
+      "latitude": "61.46809"
+    },
+    "uid": "0e0fd19bd55a4e47297e7dd0525ea53e04f8bb95462927685e2992f933407f56",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B028%E2%80%B205%E2%80%B3N%2007%C2%B052%E2%80%B208%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.86838/61.46809",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "95",
+    "name": "Galdhøe",
+    "MASL": "2283",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′59″N 08°19′07″Ø",
+      "UTM": "463900 6835350",
+      "longitude": "8.31857",
+      "latitude": "61.64973"
+    },
+    "uid": "821eda1229aa5deca0bdaed6dc445810b5a5ea1c29cea34cbeefe080c06e2001",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B259%E2%80%B3N%2008%C2%B019%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.31857/61.64973",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Vestre Memurutindan, V-1",
+    "MASL": "2280",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′29″N 08°27′50″Ø",
+      "UTM": "471500 6825050",
+      "longitude": "8.46362",
+      "latitude": "61.55791"
+    },
+    "uid": "bec0d3837f773b49e135409efe3f2bf77de3d36110fb879e6ec16ea3f4aab55e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B229%E2%80%B3N%2008%C2%B027%E2%80%B250%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.46362/61.55791",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Snøhetta, Midttoppen",
+    "MASL": "2278",
+    "map": "1519 IV «Snøhetta»",
+    "coordinates": {
+      "DMS": "62°19′11″N 09°15′18″Ø",
+      "UTM": "513050 6909700",
+      "longitude": "9.25179",
+      "latitude": "62.31861"
+    },
+    "uid": "b60c7013ec0114872a68ed92a673fe82e132ae2ec5f394d8b341c3b87b176563",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B019%E2%80%B211%E2%80%B3N%2009%C2%B015%E2%80%B218%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.25179/62.31861",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "135",
+    "name": "Søre Veotinden",
+    "MASL": "2267",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′19″N 08°31′58″Ø",
+      "UTM": "475150 6826600",
+      "longitude": "8.53210",
+      "latitude": "61.57208"
+    },
+    "uid": "f50f336b106ac45014941903d1b44beacee41ad9334ef8cbdc9ed2c0829e634f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B219%E2%80%B3N%2008%C2%B031%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.53210/61.57208",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "770",
+    "name": "Mesmogtinden",
+    "MASL": "2264",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′14″N 08°32′03″Ø",
+      "UTM": "475100 6807850",
+      "longitude": "8.53369",
+      "latitude": "61.40376"
+    },
+    "uid": "5c3a3d12f18f8f2c7d9b9a0831b6a4d99bfb3d8781fd6a193d8d1bfc830c5337",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B214%E2%80%B3N%2008%C2%B032%E2%80%B203%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.53369/61.40376",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Snøhetta, Hettpiggen",
+    "MASL": "2261",
+    "map": "1519 IV «Snøhetta»",
+    "coordinates": {
+      "DMS": "62°19′00″N 09°15′03″Ø",
+      "UTM": "513000 6909450",
+      "longitude": "9.25080",
+      "latitude": "62.31637"
+    },
+    "uid": "96716f4e7f997d8b58bfd5be4302e16cc1fd1893a84b935d0e343f5941ec05b4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B019%E2%80%B200%E2%80%B3N%2009%C2%B015%E2%80%B203%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.25080/62.31637",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Glittertindoksle, Ø",
+    "MASL": "2260",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°39′26″N 08°34′28″Ø",
+      "UTM": "477450 6836100",
+      "longitude": "8.57424",
+      "latitude": "61.65750"
+    },
+    "uid": "c923a9b2f365b172578b60533f30490b57d8c85cd6353e53b85bbfd9bf04c95a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B039%E2%80%B226%E2%80%B3N%2008%C2%B034%E2%80%B228%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57424/61.65750",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "180",
+    "name": "Storgrovhøe",
+    "MASL": "2259",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′37″N 08°16′01″Ø",
+      "UTM": "461150 6834650",
+      "longitude": "8.26682",
+      "latitude": "61.64318"
+    },
+    "uid": "35d87bb983d937f3c7ec08ecb578786c53cc2c0c94323b317eea9c484cb9c18f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B237%E2%80%B3N%2008%C2%B016%E2%80%B201%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26682/61.64318",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "850",
+    "name": "Besshøe",
+    "MASL": "2258",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°31′05″N 08°41′17″Ø",
+      "UTM": "483350 6820500",
+      "longitude": "8.68705",
+      "latitude": "61.51776"
+    },
+    "uid": "832852b704d9eb0c20b4324d3bbb8f113411ace662b3745b24a75b99b2ba85cb",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B205%E2%80%B3N%2008%C2%B041%E2%80%B217%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.68705/61.51776",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "573",
+    "name": "Nautgardstinden",
+    "MASL": "2258",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°36′11″N 08°45′35″Ø",
+      "UTM": "487250 6830000",
+      "longitude": "8.75969",
+      "latitude": "61.60319"
+    },
+    "uid": "1954663ae46f24a480c91a6774a1c9648c6993d54cd3ca78f4f6fa05e7eae17c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B211%E2%80%B3N%2008%C2%B045%E2%80%B235%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.75969/61.60319",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "114",
+    "name": "Hellstugutinden, S-1",
+    "MASL": "2255",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′18″N 08°25′48″Ø",
+      "UTM": "469700 6822900",
+      "longitude": "8.43010",
+      "latitude": "61.53847"
+    },
+    "uid": "3d3b5364eae7353ea44854c8f5979a6c2d84d236b2df5f8b7e46d1e227563a66",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B218%E2%80%B3N%2008%C2%B025%E2%80%B248%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.43010/61.53847",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Storgrovhøi, Fremste",
+    "MASL": "2253",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°39′00″N 08°16′39″Ø",
+      "UTM": "461750 6835400",
+      "longitude": "8.27798",
+      "latitude": "61.64997"
+    },
+    "uid": "6cd3b78bee9d38e85a4cf6ffbae543f0172efcedf3e69fd3fa27815857c0d807",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B039%E2%80%B200%E2%80%B3N%2008%C2%B016%E2%80%B239%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.27798/61.64997",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Snøhetta, Vesttoppen",
+    "MASL": "2253",
+    "map": "1519 IV «Snøhetta»",
+    "coordinates": {
+      "DMS": "62°18′54″N 09°14′58″Ø",
+      "UTM": "512950 6909400",
+      "longitude": "9.24984",
+      "latitude": "62.31592"
+    },
+    "uid": "a8807e8594b91a786ab2e5d331358326a6f2326ff2195f1009f7676b3a3f006d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B018%E2%80%B254%E2%80%B3N%2009%C2%B014%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.24984/62.31592",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Skarvflyløyfttinden",
+    "MASL": "2250",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′45″N 08°36′43″Ø",
+      "UTM": "479300 6810650",
+      "longitude": "8.61203",
+      "latitude": "61.42914"
+    },
+    "uid": "d11d88aa6fecb6dbfe9bc96731f40d2b58c699a8b62678b082ab718699e15f9b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B245%E2%80%B3N%2008%C2%B036%E2%80%B243%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.61203/61.42914",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "200",
+    "name": "Leirungstinden, V",
+    "MASL": "2250",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′58″N 08°34′55″Ø",
+      "UTM": "477700 6809200",
+      "longitude": "8.58222",
+      "latitude": "61.41603"
+    },
+    "uid": "09f1ab447bee82b6b9115dbab109ed93ec09842c472ba95885409cb5b4d00213",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B258%E2%80%B3N%2008%C2%B034%E2%80%B255%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.58222/61.41603",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Vestre Memurutindan, V-3",
+    "MASL": "2243",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′06″N 08°27′45″Ø",
+      "UTM": "471400 6824350",
+      "longitude": "8.46185",
+      "latitude": "61.55162"
+    },
+    "uid": "d98d4842cdfef47e42f5a08faf076fda829d963772547d05ee5316f408f14200",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B206%E2%80%B3N%2008%C2%B027%E2%80%B245%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.46185/61.55162",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "72",
+    "name": "Store Veotinden",
+    "MASL": "2240",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′34″N 08°31′54″Ø",
+      "UTM": "475100 6827050",
+      "longitude": "8.53110",
+      "latitude": "61.57611"
+    },
+    "uid": "445c54388c21de5314b46779cda374d17ded3c3d658f40f66502972953e54800",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B234%E2%80%B3N%2008%C2%B031%E2%80%B254%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.53110/61.57611",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "450",
+    "name": "Semeltinden",
+    "MASL": "2236",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°30′48″N 08°24′24″Ø",
+      "UTM": "468400 6820100",
+      "longitude": "8.40613",
+      "latitude": "61.51324"
+    },
+    "uid": "5be3a3422e5d1bb05dcf4e523e2ed9c73c2dfc4bae0339c4f74cdc4278dffe33",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B030%E2%80%B248%E2%80%B3N%2008%C2%B024%E2%80%B224%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.40613/61.51324",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "560",
+    "name": "Visbretinden",
+    "MASL": "2234",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′48″N 08°20′07″Ø",
+      "UTM": "464650 6822050",
+      "longitude": "8.33529",
+      "latitude": "61.53042"
+    },
+    "uid": "884a4ba6e2982595374aafa6b19e6b99d506875e70e7d60f44d09f1c495021a0",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B248%E2%80%B3N%2008%C2%B020%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.33529/61.53042",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "95",
+    "name": "Søraustre Styggehøbreatinden",
+    "MASL": "2232",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′04″N 08°33′20″Ø",
+      "UTM": "476400 6826100",
+      "longitude": "8.55570",
+      "latitude": "61.56767"
+    },
+    "uid": "dbcf7b08c5f67330961e0e3cbb3452701ec00fc0d14a6892452a12fe9bdfe098",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B204%E2%80%B3N%2008%C2%B033%E2%80%B220%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55570/61.56767",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Vestre Memurutindan, V-4",
+    "MASL": "2230",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°32′46″N 08°28′33″Ø",
+      "UTM": "472100 6823750",
+      "longitude": "8.47511",
+      "latitude": "61.54629"
+    },
+    "uid": "91df59c7b71070e167cb470dee8b5c8f137476b2bc611617046888d67d324a35",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B246%E2%80%B3N%2008%C2%B028%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.47511/61.54629",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "34",
+    "name": "Storgrovtinden",
+    "MASL": "2229",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°38′29″N 08°15′59″Ø",
+      "UTM": "461150 6834450",
+      "longitude": "8.26686",
+      "latitude": "61.64139"
+    },
+    "uid": "e54d3040fac97835c7b55272bfe0dad05b319015fcfc3532d7bb9617394f6311",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B229%E2%80%B3N%2008%C2%B015%E2%80%B259%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26686/61.64139",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Høgdebrotet",
+    "MASL": "2226",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°27′10″N 08°40′10″Ø",
+      "UTM": "482350 6813300",
+      "longitude": "8.66894",
+      "latitude": "61.45308"
+    },
+    "uid": "39bfb3798d3f410d3c0143066833d45c9deb4712e5fccd450d629ea6059eb1a9",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B210%E2%80%B3N%2008%C2%B040%E2%80%B210%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.66894/61.45308",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Kjelhøe",
+    "MASL": "2223",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°40′01″N 08°20′10″Ø",
+      "UTM": "464850 6837250",
+      "longitude": "8.33614",
+      "latitude": "61.66688"
+    },
+    "uid": "88d123583ed4e6a80cf550a5e73d595cd194b9513bea747ada2665a23415534a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B040%E2%80%B201%E2%80%B3N%2008%C2%B020%E2%80%B210%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.33614/61.66688",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "800",
+    "name": "Storebjørn",
+    "MASL": "2222",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′53″N 08°08′14″Ø",
+      "UTM": "454150 6824150",
+      "longitude": "8.13735",
+      "latitude": "61.54816"
+    },
+    "uid": "6842ddb0466b81d58587de4cd84ddbb8640beab80ae44f65c1fa46544de7d253",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B253%E2%80%B3N%2008%C2%B008%E2%80%B214%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.13735/61.54816",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Sørvestre Styggehøbreatinden",
+    "MASL": "2220",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°33′57″N 08°33′00″Ø",
+      "UTM": "476100 6825900",
+      "longitude": "8.55008",
+      "latitude": "61.56585"
+    },
+    "uid": "c088b37dcdb65ddbb0cbc0dacc1996f1331208839f5100df7bf811d4571bcd70",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B257%E2%80%B3N%2008%C2%B033%E2%80%B200%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55008/61.56585",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Hellstugutinden, N-3",
+    "MASL": "2218",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′43″N 08°25′15″Ø",
+      "UTM": "469200 6825500",
+      "longitude": "8.42026",
+      "latitude": "61.56177"
+    },
+    "uid": "0aaaaf365d76581ae75db99c48c350b8ee2ec972e22913ba03e9fd80b35346c2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B243%E2%80%B3N%2008%C2%B025%E2%80%B215%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.42026/61.56177",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "230",
+    "name": "Styggehøe",
+    "MASL": "2213",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′28″N 08°20′12″Ø",
+      "UTM": "464800 6828800",
+      "longitude": "8.33682",
+      "latitude": "61.59102"
+    },
+    "uid": "749439f8c59aaa4d1ac1f168daf665a9ac2c674b410a44c006a41f87f847d359",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B228%E2%80%B3N%2008%C2%B020%E2%80%B212%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.33682/61.59102",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "160",
+    "name": "Bukkeholstinden, Store",
+    "MASL": "2213",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′45″N 08°18′27″Ø",
+      "UTM": "463250 6827500",
+      "longitude": "8.30788",
+      "latitude": "61.57921"
+    },
+    "uid": "b0e2bb965e406048c145cf440eff45363532951fca3b716fc1191971e34631cc",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B245%E2%80%B3N%2008%C2%B018%E2%80%B227%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30788/61.57921",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Skarvflytinden, Søre",
+    "MASL": "2210",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′59″N 08°36′35″Ø",
+      "UTM": "479200 6811100",
+      "longitude": "8.61010",
+      "latitude": "61.43317"
+    },
+    "uid": "68b3e90074d48b00b80d0975db185c380a55e8f989ae6a810ce11e8f4e7f13f1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B259%E2%80%B3N%2008%C2%B036%E2%80%B235%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.61010/61.43317",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "540",
+    "name": "Storstyggesvånåtinden",
+    "MASL": "2209",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°17′03″N 09°11′16″Ø",
+      "UTM": "509750 6905850",
+      "longitude": "9.18790",
+      "latitude": "62.28415"
+    },
+    "uid": "b08675de42ead689be179cc3e87b81391595b50d26437cf5b0c99978ab0ea610",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B017%E2%80%B203%E2%80%B3N%2009%C2%B011%E2%80%B216%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.18790/62.28415",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "200",
+    "name": "Smørstabbtinden, Store",
+    "MASL": "2208",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′19″N 08°07′08″Ø",
+      "UTM": "453200 6826800",
+      "longitude": "8.11880",
+      "latitude": "61.57183"
+    },
+    "uid": "27a065fb95973327a1f5b1a1c942130e125005d167e02da64475e3336e15d4a3",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B219%E2%80%B3N%2008%C2%B007%E2%80%B208%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11880/61.57183",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "530",
+    "name": "Kalvehøgdi, V-2",
+    "MASL": "2208",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°23′34″N 08°37′15″Ø",
+      "UTM": "479750 6806600",
+      "longitude": "8.62090",
+      "latitude": "61.39281"
+    },
+    "uid": "d46b76ce5bd84cef82daeac5908684b56088d21dd178986271008e5cf22cf66c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B234%E2%80%B3N%2008%C2%B037%E2%80%B215%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.62090/61.39281",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Langedalstinden",
+    "MASL": "2206",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′02″N 08°31′24″Ø",
+      "UTM": "474550 6807500",
+      "longitude": "8.52344",
+      "latitude": "61.40058"
+    },
+    "uid": "1259a01a59d8c7adee8ccaf782d32c4e7b1fcf617ef375d8f780329b18a6d70c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B202%E2%80%B3N%2008%C2%B031%E2%80%B224%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.52344/61.40058",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "75",
+    "name": "Knutsholstinden, Vesle",
+    "MASL": "2205",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′04″N 08°34′32″Ø",
+      "UTM": "477350 6809400",
+      "longitude": "8.57563",
+      "latitude": "61.41781"
+    },
+    "uid": "a258534d6ff86cd01c4def37551096377672825144b7ae9a93a0c0884e0f9b12",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B204%E2%80%B3N%2008%C2%B034%E2%80%B232%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57563/61.41781",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "475",
+    "name": "Austanbottstind, Store",
+    "MASL": "2203",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°25′55″N 07°47′44″Ø",
+      "UTM": "435750 6811500",
+      "longitude": "7.79564",
+      "latitude": "61.43200"
+    },
+    "uid": "ba7982d95cd9cd954c69f8eba1800bd54c8d1816da3e8add2896877dff47c428",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B255%E2%80%B3N%2007%C2%B047%E2%80%B244%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.79564/61.43200",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "347",
+    "name": "Nørdre Trollsteinhøe",
+    "MASL": "2201",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°42′05″N 08°34′56″Ø",
+      "UTM": "477900 6841000",
+      "longitude": "8.58214",
+      "latitude": "61.70151"
+    },
+    "uid": "d409e763e0b9c838883225ff1a54cd1e3587eec764ae1ad084546c397a6694a2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B042%E2%80%B205%E2%80%B3N%2008%C2%B034%E2%80%B256%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.58214/61.70151",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "63",
+    "name": "Søre Blåbreahøe",
+    "MASL": "2196",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°32′38″N 08°33′22″Ø",
+      "UTM": "476400 6823450",
+      "longitude": "8.55604",
+      "latitude": "61.54388"
+    },
+    "uid": "dc7197716c7d6b61682c3232f418bdb92ac124ae40c183103c3124d7133add38",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B238%E2%80%B3N%2008%C2%B033%E2%80%B222%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55604/61.54388",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "45",
+    "name": "Nautgardstinden, Ø",
+    "MASL": "2194",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°36′39″N 08°46′15″Ø",
+      "UTM": "487850 6830850",
+      "longitude": "8.77095",
+      "latitude": "61.61084"
+    },
+    "uid": "59e3dc3f7df63054a27dfad1b823a53ea9ff964570741fa2ba4fcd15f4f03b94",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B239%E2%80%B3N%2008%C2%B046%E2%80%B215%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.77095/61.61084",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "300",
+    "name": "Kvitskardtinden",
+    "MASL": "2193",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°23′48″N 08°33′16″Ø",
+      "UTM": "476200 6807050",
+      "longitude": "8.55439",
+      "latitude": "61.39664"
+    },
+    "uid": "b91fb38669788991175762a58b78cea8ba5cb986b0a6efd6a80de204e42c1018",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B248%E2%80%B3N%2008%C2%B033%E2%80%B216%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55439/61.39664",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "440",
+    "name": "Slettmarkhøe",
+    "MASL": "2190",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′02″N 08°28′53″Ø",
+      "UTM": "472300 6807500",
+      "longitude": "8.48131",
+      "latitude": "61.40043"
+    },
+    "uid": "a02116dc9c7af7c4dcacfa8bb9e633512c40531e6ea11d5e4c3c0acc93ab225b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B202%E2%80%B3N%2008%C2%B028%E2%80%B253%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.48131/61.40043",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "160",
+    "name": "Sokse",
+    "MASL": "2189",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′42″N 08°08′00″Ø",
+      "UTM": "453950 6825650",
+      "longitude": "8.13321",
+      "latitude": "61.56160"
+    },
+    "uid": "c61e47b62d0993be88a4a6273c8dfb1be9773579964b93530486b81fe9b0abfe",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B242%E2%80%B3N%2008%C2%B008%E2%80%B200%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.13321/61.56160",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Hellstugutinden, S-2",
+    "MASL": "2189",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′41″N 08°25′19″Ø",
+      "UTM": "469250 6821750",
+      "longitude": "8.42183",
+      "latitude": "61.52812"
+    },
+    "uid": "ec7f888fb57c123f8c8b8a98d8ace12f354d17e734d7cc31452c7efeac9b7fcf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B241%E2%80%B3N%2008%C2%B025%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.42183/61.52812",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Veobrehesten",
+    "MASL": "2185",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°35′33″N 08°28′21″Ø",
+      "UTM": "472000 6828900",
+      "longitude": "8.47245",
+      "latitude": "61.59251"
+    },
+    "uid": "459bd078a386c7fcc79e02796c6320ebeaef61eff50aee2f7db349a0ec7e2c4b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B233%E2%80%B3N%2008%C2%B028%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.47245/61.59251",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "55",
+    "name": "Knutsholstinden, N",
+    "MASL": "2185",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°26′04″N 08°33′21″Ø",
+      "UTM": "476300 6811250",
+      "longitude": "8.55573",
+      "latitude": "61.43435"
+    },
+    "uid": "97424f6b7b4e9fd76d948d8826d5438c429330538a2cb59dbef4d71da0b89bca",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B204%E2%80%B3N%2008%C2%B033%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55573/61.43435",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Veobreatinden",
+    "MASL": "2183",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′48″N 08°29′26″Ø",
+      "UTM": "472950 6827500",
+      "longitude": "8.49055",
+      "latitude": "61.58001"
+    },
+    "uid": "99c9a1e64d195aa65a8464dd684a3b4ce96e7bc0a5e1966a702f0ebdfcc80b3c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B248%E2%80%B3N%2008%C2%B029%E2%80%B226%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.49055/61.58001",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Svellnosbreahesten",
+    "MASL": "2181",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°37′15″N 08°18′22″Ø",
+      "UTM": "463200 6832150",
+      "longitude": "8.30600",
+      "latitude": "61.62094"
+    },
+    "uid": "4853f3d622810dbe472875f28ff40e81898dd727215715daca7c9e2aa45eccbf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B215%E2%80%B3N%2008%C2%B018%E2%80%B222%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30600/61.62094",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "1220",
+    "name": "Rondslottet",
+    "MASL": "2178",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°54′54″N 09°51′04″Ø",
+      "UTM": "544700 6865000",
+      "longitude": "9.85107",
+      "latitude": "61.91496"
+    },
+    "uid": "8d224043a0f76e69842866b7fe2e3a4ff8f5e8605ebde309df9971aa4d0e2703",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B054%E2%80%B254%E2%80%B3N%2009%C2%B051%E2%80%B204%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.85107/61.91496",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "170",
+    "name": "Stornubben",
+    "MASL": "2174",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°37′39″N 08°47′43″Ø",
+      "UTM": "489150 6832700",
+      "longitude": "8.79534",
+      "latitude": "61.62749"
+    },
+    "uid": "67236cae5324f67a1f9879a5f87b506a5442ff4626977aab10dfde194f41fe48",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B239%E2%80%B3N%2008%C2%B047%E2%80%B243%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.79534/61.62749",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "870",
+    "name": "Hestbrepiggen, N-2",
+    "MASL": "2172",
+    "map": "1518 IV «Pollfoss»",
+    "coordinates": {
+      "DMS": "61°45′01″N 08°05′10″Ø",
+      "UTM": "451750 6846700",
+      "longitude": "8.08625",
+      "latitude": "61.75028"
+    },
+    "uid": "76186cd77e7e78314f42364d4715d3b015730eab13de0568d26868ef06fa7e9f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B045%E2%80%B201%E2%80%B3N%2008%C2%B005%E2%80%B210%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.08625/61.75028",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Trollsteinrundhøe",
+    "MASL": "2170",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°40′30″N 08°33′25″Ø",
+      "UTM": "476550 6838050",
+      "longitude": "8.55700",
+      "latitude": "61.67495"
+    },
+    "uid": "ba455d52e7c2b25b45286bbc212a79d90c8cb9d6dc0d7bf29ebb63b12c972df0",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B040%E2%80%B230%E2%80%B3N%2008%C2%B033%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55700/61.67495",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "340",
+    "name": "Loftet",
+    "MASL": "2170",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°37′23″N 08°07′33″Ø",
+      "UTM": "453650 6832500",
+      "longitude": "8.12584",
+      "latitude": "61.62305"
+    },
+    "uid": "4b66f9a2c374a8834e0c01f6e709a026f3f230946965cba5a920bc25ea07292d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B223%E2%80%B3N%2008%C2%B007%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12584/61.62305",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Knutsholstinden, M",
+    "MASL": "2170",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′48″N 08°33′14″Ø",
+      "UTM": "476200 6810750",
+      "longitude": "8.55392",
+      "latitude": "61.42986"
+    },
+    "uid": "223a793a86034407910b5bc5d7800bb6d83fc9f693e40b1f144bb015b315f52b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B248%E2%80%B3N%2008%C2%B033%E2%80%B214%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55392/61.42986",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "650",
+    "name": "Rauddalseggje, Store",
+    "MASL": "2168",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°28′03″N 08°18′37″Ø",
+      "UTM": "463250 6815050",
+      "longitude": "8.31036",
+      "latitude": "61.46745"
+    },
+    "uid": "d42b55c5dfc74c6e093a36784ffcfb38d654609b6a010e1c60fb8cb5164a5b6e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B028%E2%80%B203%E2%80%B3N%2008%C2%B018%E2%80%B237%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.31036/61.46745",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Nørdre Styggehøbreatinden",
+    "MASL": "2168",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°34′37″N 08°32′43″Ø",
+      "UTM": "475850 6827150",
+      "longitude": "8.54521",
+      "latitude": "61.57706"
+    },
+    "uid": "f0bbf92b5661157e7eb75705783dfa553d32926c155e2dea12a95992cc6ad969",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B237%E2%80%B3N%2008%C2%B032%E2%80%B243%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.54521/61.57706",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Skagastølstinden, N",
+    "MASL": "2167",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°28′23″N 07°51′55″Ø",
+      "UTM": "439550 6816000",
+      "longitude": "7.86538",
+      "latitude": "61.47300"
+    },
+    "uid": "8959d5d28506a6d7aa72d6da08b46231ef7e00d855c71d6a9a5ae7a2e746310a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B028%E2%80%B223%E2%80%B3N%2007%C2%B051%E2%80%B255%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.86538/61.47300",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Bukkeholstindan, V-4",
+    "MASL": "2166",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′48″N 08°16′11″Ø",
+      "UTM": "461250 6829450",
+      "longitude": "8.26980",
+      "latitude": "61.59651"
+    },
+    "uid": "ea27136e9390bb8c8359b4941c778ca25b9647164cd9d73a64d7ba8d0018397a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B248%E2%80%B3N%2008%C2%B016%E2%80%B211%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26980/61.59651",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Bukkeholstindan, V-2",
+    "MASL": "2166",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′33″N 08°16′39″Ø",
+      "UTM": "461650 6829000",
+      "longitude": "8.27743",
+      "latitude": "61.59252"
+    },
+    "uid": "c32bcd84ec61395103ba030b1c4024c501528a5fde44c3c630afa9566d1a2561",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B233%E2%80%B3N%2008%C2%B016%E2%80%B239%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.27743/61.59252",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Bukkeholstindan, V-1",
+    "MASL": "2166",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′27″N 08°17′09″Ø",
+      "UTM": "462100 6828800",
+      "longitude": "8.28595",
+      "latitude": "61.59076"
+    },
+    "uid": "77274d72ee7a504c89f65345fc17d812aee298e839c8d70aad7a78b941bbed52",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B227%E2%80%B3N%2008%C2%B017%E2%80%B209%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.28595/61.59076",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "58",
+    "name": "Nørdre Blåbreahøe",
+    "MASL": "2165",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°33′22″N 08°33′18″Ø",
+      "UTM": "476350 6824800",
+      "longitude": "8.55493",
+      "latitude": "61.55600"
+    },
+    "uid": "e8a5159eaa5ac2d33f12b3cd25cab26befec2e81b5e11fbd0d5bbfdb89d53f41",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B222%E2%80%B3N%2008%C2%B033%E2%80%B218%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55493/61.55600",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "150",
+    "name": "Slettmarkpiggen",
+    "MASL": "2163",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°23′52″N 08°27′59″Ø",
+      "UTM": "471500 6807200",
+      "longitude": "8.46637",
+      "latitude": "61.39767"
+    },
+    "uid": "d2213c0535805ae9330ebe78569f25fb910b78536ba47393124d783ac2fa8aaa",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B252%E2%80%B3N%2008%C2%B027%E2%80%B259%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.46637/61.39767",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "282",
+    "name": "Tverrbottinden, Store",
+    "MASL": "2161",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′33″N 08°15′19″Ø",
+      "UTM": "460450 6827150",
+      "longitude": "8.25522",
+      "latitude": "61.57579"
+    },
+    "uid": "b0347d217e7db45a80c2e823cae06d98f6b907abeb691c91cae034edb3188b38",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B233%E2%80%B3N%2008%C2%B015%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.25522/61.57579",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Trollsteinhøe, S",
+    "MASL": "2161",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°41′33″N 08°34′46″Ø",
+      "UTM": "477750 6840000",
+      "longitude": "8.57943",
+      "latitude": "61.69253"
+    },
+    "uid": "eb3e4fc7e4b43f17dc3233f165dadb98c59437735c9ca2d9fa011e9ee3d56b00",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B041%E2%80%B233%E2%80%B3N%2008%C2%B034%E2%80%B246%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57943/61.69253",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Bukkeholstindan, V-3",
+    "MASL": "2161",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′41″N 08°16′35″Ø",
+      "UTM": "461600 6829250",
+      "longitude": "8.27644",
+      "latitude": "61.59475"
+    },
+    "uid": "2ca87f81166e06f1260d009f79abe552c4cd29d84dfdec29ba15ced1b52e1d9c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B241%E2%80%B3N%2008%C2%B016%E2%80%B235%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.27644/61.59475",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Maradalstinden, N-2",
+    "MASL": "2160",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′33″N 07°53′15″Ø",
+      "UTM": "440700 6814450",
+      "longitude": "7.88746",
+      "latitude": "61.45927"
+    },
+    "uid": "0f3883a120b3c0eead6b0c9acf8349ab2fad8f655e0a0c641ccaa1f7f1603e31",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B233%E2%80%B3N%2007%C2%B053%E2%80%B215%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.88746/61.45927",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "190",
+    "name": "Hestbrepiggen, M-1",
+    "MASL": "2160",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°44′25″N 08°04′55″Ø",
+      "UTM": "451500 6845600",
+      "longitude": "8.08181",
+      "latitude": "61.74037"
+    },
+    "uid": "596c1c090158d86e89159ca04eebbf6d9a6d76b2b70a15330271f14b388cfa32",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B225%E2%80%B3N%2008%C2%B004%E2%80%B255%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.08181/61.74037",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "570",
+    "name": "Skarddalseggje",
+    "MASL": "2159",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°29′06″N 08°20′21″Ø",
+      "UTM": "464800 6817000",
+      "longitude": "8.33907",
+      "latitude": "61.48510"
+    },
+    "uid": "03dea4937541f55a948a328a7207961332ee8ef2329377295e8711fd432bae73",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B029%E2%80%B206%E2%80%B3N%2008%C2%B020%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.33907/61.48510",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "590",
+    "name": "Rauddalstinden, Store",
+    "MASL": "2157",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°29′41″N 08°11′12″Ø",
+      "UTM": "456700 6818150",
+      "longitude": "8.18673",
+      "latitude": "61.49460"
+    },
+    "uid": "4f9baa37914372a9aabf1cf1c226e758f6940748260b1d975dd636774b18e3b0",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B029%E2%80%B241%E2%80%B3N%2008%C2%B011%E2%80%B212%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.18673/61.49460",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "692",
+    "name": "Uranostinden",
+    "MASL": "2157",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°25′36″N 08°09′00″Ø",
+      "UTM": "454650 6810600",
+      "longitude": "8.15008",
+      "latitude": "61.42659"
+    },
+    "uid": "cde15d2c0633bba4951f89ce82cd8537a084aff255c7de5a3e65f3f3e338c18a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B236%E2%80%B3N%2008%C2%B009%E2%80%B200%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.15008/61.42659",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "189",
+    "name": "Veslfjelltinden",
+    "MASL": "2157",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′36″N 08°06′50″Ø",
+      "UTM": "453000 6831050",
+      "longitude": "8.11395",
+      "latitude": "61.60996"
+    },
+    "uid": "f8d19bbc6c31f15544f659318257e8dcca65f1eeba78c3cd868dede72952d2bf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B236%E2%80%B3N%2008%C2%B006%E2%80%B250%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11395/61.60996",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Skarvflytinden, M",
+    "MASL": "2154",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°26′12″N 08°35′59″Ø",
+      "UTM": "478650 6811500",
+      "longitude": "8.59975",
+      "latitude": "61.43674"
+    },
+    "uid": "f6c0b0feec92e0f4d66a3316bca34bc4a2e8481a67ace2b6875e887ba2e05166",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B212%E2%80%B3N%2008%C2%B035%E2%80%B259%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.59975/61.43674",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Gråhøe",
+    "MASL": "2154",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°41′25″N 08°33′41″Ø",
+      "UTM": "476800 6839750",
+      "longitude": "8.56150",
+      "latitude": "61.69023"
+    },
+    "uid": "65248e4cfd8399326e1d5b7f657d32c24f01337dbcccd1f6950f8f43253f3ae3",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B041%E2%80%B225%E2%80%B3N%2008%C2%B033%E2%80%B241%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.56150/61.69023",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Bukkeholstindan, M-1",
+    "MASL": "2154",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′56″N 08°18′01″Ø",
+      "UTM": "462850 6827850",
+      "longitude": "8.30027",
+      "latitude": "61.58231"
+    },
+    "uid": "341b32480abb40b65a52e8e17f58bede1bef8c217cc4f94d1fd1d54f58b405ac",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B256%E2%80%B3N%2008%C2%B018%E2%80%B201%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30027/61.58231",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "88",
+    "name": "Tverrbottinden, M-1",
+    "MASL": "2151",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′15″N 08°16′10″Ø",
+      "UTM": "461200 6826600",
+      "longitude": "8.26946",
+      "latitude": "61.57093"
+    },
+    "uid": "398e9607038eb23df5828fd4cecb5407ad5cb967e44bad5da0a575e7969149cd",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B215%E2%80%B3N%2008%C2%B016%E2%80%B210%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26946/61.57093",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Veslebjørn, S",
+    "MASL": "2150",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′19″N 08°07′40″Ø",
+      "UTM": "453650 6824950",
+      "longitude": "8.12774",
+      "latitude": "61.55528"
+    },
+    "uid": "9af73331a1a28c732a8c8c4ee8770c1618583fe51f9d47d4c9cf03c521301945",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B219%E2%80%B3N%2008%C2%B007%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12774/61.55528",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Bukkeholstindan, N",
+    "MASL": "2149",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′35″N 08°18′04″Ø",
+      "UTM": "462900 6829050",
+      "longitude": "8.30097",
+      "latitude": "61.59309"
+    },
+    "uid": "f37ef05ea08f12db80def35ba2075695b91c0578bd59ebfa791f231fc3a27144",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B235%E2%80%B3N%2008%C2%B018%E2%80%B204%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30097/61.59309",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Semelholstinden",
+    "MASL": "2147",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′06″N 08°21′25″Ø",
+      "UTM": "465800 6822550",
+      "longitude": "8.35682",
+      "latitude": "61.53501"
+    },
+    "uid": "d6c89bc7a365c51dd7249710028d61f2b6225094c8df729c3f1be2df384f5bc8",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B206%E2%80%B3N%2008%C2%B021%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.35682/61.53501",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "420",
+    "name": "Dyrhaugstinden, Store",
+    "MASL": "2147",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′35″N 07°49′49″Ø",
+      "UTM": "437650 6814550",
+      "longitude": "7.83022",
+      "latitude": "61.45968"
+    },
+    "uid": "9398c2a82604b41e6033f810e85d9050227c96e8eb70a19fc0f24b33e88a66a1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B235%E2%80%B3N%2007%C2%B049%E2%80%B249%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.83022/61.45968",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "130",
+    "name": "Tjørnholsoksle",
+    "MASL": "2145",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′58″N 08°38′14″Ø",
+      "UTM": "480650 6811050",
+      "longitude": "8.63729",
+      "latitude": "61.43280"
+    },
+    "uid": "c984ddc5a123c5a2325a612416f5564a6c20e08b2118ef9c7ae1eb8ef6d82e87",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B258%E2%80%B3N%2008%C2%B038%E2%80%B214%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.63729/61.43280",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Hestbrepiggen, M-2",
+    "MASL": "2143",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°44′26″N 08°03′05″Ø",
+      "UTM": "449900 6845650",
+      "longitude": "8.05151",
+      "latitude": "61.74061"
+    },
+    "uid": "dcecde302b175cfb23f6a3c63328bce251ad0ad4ee52324f4034b5e1d5b65a65",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B226%E2%80%B3N%2008%C2%B003%E2%80%B205%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.05151/61.74061",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "300",
+    "name": "Ryggehøi",
+    "MASL": "2142",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°37′08″N 08°33′38″Ø",
+      "UTM": "476700 6831800",
+      "longitude": "8.56063",
+      "latitude": "61.61885"
+    },
+    "uid": "01a8f88fd20ef107b40b289a791826e126b9ccd8a717ff913598b22eb1d256ce",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B037%E2%80%B208%E2%80%B3N%2008%C2%B033%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.56063/61.61885",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "676",
+    "name": "Snøholtinden",
+    "MASL": "2141",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°26′29″N 08°18′36″Ø",
+      "UTM": "463200 6812150",
+      "longitude": "8.31000",
+      "latitude": "61.44141"
+    },
+    "uid": "83c8c7bd8b758d3b546c81af454b9060112276114ec413b976a52f7e2ad57468",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B229%E2%80%B3N%2008%C2%B018%E2%80%B236%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.31000/61.44141",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Vestre Memurutindan, V-5",
+    "MASL": "2140",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°32′21″N 08°29′18″Ø",
+      "UTM": "472800 6822950",
+      "longitude": "8.48840",
+      "latitude": "61.53915"
+    },
+    "uid": "0d50cebb06a079ed509efbcf8bf52db1ccdca84635fa230475523f36f5174441",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B221%E2%80%B3N%2008%C2%B029%E2%80%B218%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.48840/61.53915",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Hestbrepiggen, V-2",
+    "MASL": "2139",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°43′56″N 08°00′40″Ø",
+      "UTM": "447750 6844750",
+      "longitude": "8.01107",
+      "latitude": "61.73225"
+    },
+    "uid": "4b9b15661cc391b5ef98c947dc8f8ce2ba7433c0a84f50e4b1e2006784879217",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B043%E2%80%B256%E2%80%B3N%2008%C2%B000%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.01107/61.73225",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "390",
+    "name": "Storronden",
+    "MASL": "2138",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°53′30″N 09°51′43″Ø",
+      "UTM": "545300 6862400",
+      "longitude": "9.86184",
+      "latitude": "61.89156"
+    },
+    "uid": "069940e4023282c460ee025ca12f09913f838c356dafd89ea64860edd9e8ce78",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B053%E2%80%B230%E2%80%B3N%2009%C2%B051%E2%80%B243%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.86184/61.89156",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Svartdalspiggen, N",
+    "MASL": "2137",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°25′18″N 08°30′33″Ø",
+      "UTM": "473800 6809850",
+      "longitude": "8.50906",
+      "latitude": "61.42163"
+    },
+    "uid": "2f927cb04034b1471e0679b9ed1edf6d1e25065b9406313131752d214f40b75d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B218%E2%80%B3N%2008%C2%B030%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.50906/61.42163",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "550",
+    "name": "Mjølkedalstinden",
+    "MASL": "2137",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°27′34″N 08°15′02″Ø",
+      "UTM": "460050 6814200",
+      "longitude": "8.25050",
+      "latitude": "61.45950"
+    },
+    "uid": "c85d0e36a6c888881dda280ffcaa2754d46346f328a005c7ba9fcecfc591e8f5",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B234%E2%80%B3N%2008%C2%B015%E2%80%B202%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.25050/61.45950",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Hellstugubrehesten, N",
+    "MASL": "2136",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′18″N 08°25′47″Ø",
+      "UTM": "469700 6824750",
+      "longitude": "8.42980",
+      "latitude": "61.55508"
+    },
+    "uid": "a051eb8080df358c6c15e93fa8cfa457c40679b9995f5fba0c804ac3632e2179",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B218%E2%80%B3N%2008%C2%B025%E2%80%B247%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.42980/61.55508",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "45",
+    "name": "Bukkeholstindan, M-2",
+    "MASL": "2135",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′58″N 08°17′20″Ø",
+      "UTM": "462250 6827900",
+      "longitude": "8.28896",
+      "latitude": "61.58270"
+    },
+    "uid": "891c224a185b391c33875a0afbb0b784552a70da66db71abc32ffa150f90031f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B258%E2%80%B3N%2008%C2%B017%E2%80%B220%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.28896/61.58270",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Kniven",
+    "MASL": "2133",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′04″N 08°07′28″Ø",
+      "UTM": "453500 6826350",
+      "longitude": "8.12457",
+      "latitude": "61.56783"
+    },
+    "uid": "03f30e9cc61b708c9eb9b8fe3567981731909c4ed9cf6c573190604f1752fcee",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B204%E2%80%B3N%2008%C2%B007%E2%80%B228%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12457/61.56783",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Hestbrepiggen, Ø-1",
+    "MASL": "2132",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°44′31″N 08°06′33″Ø",
+      "UTM": "452950 6845750",
+      "longitude": "8.10922",
+      "latitude": "61.74190"
+    },
+    "uid": "6934f364e1eafa461f7a67d7e49d9414af55d7c0133624624639947bab5b8976",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B231%E2%80%B3N%2008%C2%B006%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.10922/61.74190",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Burchardts tind",
+    "MASL": "2125",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°26′09″N 08°33′17″Ø",
+      "UTM": "476250 6811400",
+      "longitude": "8.55477",
+      "latitude": "61.43570"
+    },
+    "uid": "23bfbcdc9e6248624711f425cb370c98682dbeeba76c2e6dd48745c2128909b4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B209%E2%80%B3N%2008%C2%B033%E2%80%B217%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.55477/61.43570",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "270",
+    "name": "Ringstind, Store",
+    "MASL": "2124",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′31″N 07°48′00″Ø",
+      "UTM": "436000 6812600",
+      "longitude": "7.79994",
+      "latitude": "61.44191"
+    },
+    "uid": "7ca164ffdd5143765743a3a28eefbca143f59957651fb2eb753645350f70ab5b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B231%E2%80%B3N%2007%C2%B048%E2%80%B200%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.79994/61.44191",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Lindbergtinden",
+    "MASL": "2120",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′15″N 08°16′48″Ø",
+      "UTM": "461800 6830300",
+      "longitude": "8.27999",
+      "latitude": "61.60420"
+    },
+    "uid": "04dbac0e253658210f880cfaefd5866b1fac057492d0ce0cbbdc447a0608bdb1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B215%E2%80%B3N%2008%C2%B016%E2%80%B248%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.27999/61.60420",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "47",
+    "name": "Nørdre Veotinden",
+    "MASL": "2120",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°35′03″N 08°31′58″Ø",
+      "UTM": "475200 6827950",
+      "longitude": "8.53286",
+      "latitude": "61.58420"
+    },
+    "uid": "8b705a4f1f4de2413a9e080e313fa09c41881b348e4d5440bc3d2c63abf926f4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B203%E2%80%B3N%2008%C2%B031%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.53286/61.58420",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Hellstugubrehesten, S",
+    "MASL": "2120",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′04″N 08°26′15″Ø",
+      "UTM": "470100 6824300",
+      "longitude": "8.43740",
+      "latitude": "61.55107"
+    },
+    "uid": "09dd2b183528c3da9c8db8817144bb1d9e48ab3983ad81768a8228003e0cb08c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B204%E2%80%B3N%2008%C2%B026%E2%80%B215%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.43740/61.55107",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "190",
+    "name": "Torfinnstinden, Ø",
+    "MASL": "2120",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°22′24″N 08°34′38″Ø",
+      "UTM": "477400 6804450",
+      "longitude": "8.57717",
+      "latitude": "61.37338"
+    },
+    "uid": "d37aad6ae45bc520c8cd840551e48c6e6c0f24fe0fdd7126a0c455372beee4b2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B022%E2%80%B224%E2%80%B3N%2008%C2%B034%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57717/61.37338",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Skeii",
+    "MASL": "2118",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′24″N 08°06′56″Ø",
+      "UTM": "453000 6825100",
+      "longitude": "8.11547",
+      "latitude": "61.55655"
+    },
+    "uid": "b0a82651cad2e0335aaa26847b50f0ce0a58c73610ed8b06c04df15f7331c836",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B224%E2%80%B3N%2008%C2%B006%E2%80%B256%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11547/61.55655",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "270",
+    "name": "Urdadalstinden, Store",
+    "MASL": "2116",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′05″N 08°22′38″Ø",
+      "UTM": "466900 6824350",
+      "longitude": "8.37718",
+      "latitude": "61.55126"
+    },
+    "uid": "7fbd8b89c9e826dfaf292c832aa61f903611f7cab348923f195e46891f71364a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B205%E2%80%B3N%2008%C2%B022%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.37718/61.55126",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "700",
+    "name": "Høgronden",
+    "MASL": "2115",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°56′39″N 09°54′02″Ø",
+      "UTM": "547250 6868300",
+      "longitude": "9.90049",
+      "latitude": "61.94427"
+    },
+    "uid": "f9f67624a622dee5d0760e27d14c3ecea1aaab3e5e9cac4fe9e338b643523995",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B056%E2%80%B239%E2%80%B3N%2009%C2%B054%E2%80%B202%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.90049/61.94427",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "210",
+    "name": "Hinnotefjellet",
+    "MASL": "2114",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′08″N 08°27′04″Ø",
+      "UTM": "470800 6820700",
+      "longitude": "8.45114",
+      "latitude": "61.51881"
+    },
+    "uid": "7a18d96390f04af394c123ee51b13487552276741c7328ced835f4a284dc1c07",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B208%E2%80%B3N%2008%C2%B027%E2%80%B204%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.45114/61.51881",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "120",
+    "name": "Tverrbottinden, V-1",
+    "MASL": "2113",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′57″N 08°14′54″Ø",
+      "UTM": "460100 6827900",
+      "longitude": "8.24847",
+      "latitude": "61.58248"
+    },
+    "uid": "48a60d84939713007c540c2cac428aef6ea598b0f545652e34947c363c806ee4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B257%E2%80%B3N%2008%C2%B014%E2%80%B254%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.24847/61.58248",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "240",
+    "name": "Gravdalstinden",
+    "MASL": "2113",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′22″N 08°07′03″Ø",
+      "UTM": "453050 6821350",
+      "longitude": "8.11737",
+      "latitude": "61.52290"
+    },
+    "uid": "d21096ad6f634f3cb49df40e9756504f103ecb564098146fffb09bfe3002ae23",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B222%E2%80%B3N%2008%C2%B007%E2%80%B203%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11737/61.52290",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Torfinnstinden, M",
+    "MASL": "2112",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°22′27″N 08°34′18″Ø",
+      "UTM": "477100 6804550",
+      "longitude": "8.57155",
+      "latitude": "61.37426"
+    },
+    "uid": "ae5d7dbfba9732ace6816938f17b7490751102b83c3a3c5e2de37473244445e1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B022%E2%80%B227%E2%80%B3N%2008%C2%B034%E2%80%B218%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57155/61.37426",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Tverrbottinden, M-2",
+    "MASL": "2106",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′51″N 08°16′04″Ø",
+      "UTM": "461100 6825850",
+      "longitude": "8.26774",
+      "latitude": "61.56418"
+    },
+    "uid": "bfaa47faeecc19ff25905c00e8e79efb31316cd0087eaa69f193b879bbafb163",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B251%E2%80%B3N%2008%C2%B016%E2%80%B204%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26774/61.56418",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "250",
+    "name": "Larstinden, Store",
+    "MASL": "2106",
+    "map": "1519 IV «Snøhetta»",
+    "coordinates": {
+      "DMS": "62°19′14″N 09°13′19″Ø",
+      "UTM": "511500 6909900",
+      "longitude": "9.22190",
+      "latitude": "62.32046"
+    },
+    "uid": "f3625b9e6a1bff3a56617fcffe5f57e46ebc56aeb7794eca98cccec2e97f276f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B019%E2%80%B214%E2%80%B3N%2009%C2%B013%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.22190/62.32046",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Rasletinden",
+    "MASL": "2105",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°23′43″N 08°41′58″Ø",
+      "UTM": "483950 6806850",
+      "longitude": "8.69951",
+      "latitude": "61.39525"
+    },
+    "uid": "b47db8dc9852d71360c2670113da32f7a79ef8872104bbb8c2c0267f843ade70",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B243%E2%80%B3N%2008%C2%B041%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.69951/61.39525",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Austanbottstind, Søre",
+    "MASL": "2103",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°25′41″N 07°47′25″Ø",
+      "UTM": "435450 6811050",
+      "longitude": "7.79017",
+      "latitude": "61.42791"
+    },
+    "uid": "cba3d1d674f9782e07a4d0304426cb4bacfffd08388f02c77807a8765e8b1df6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B241%E2%80%B3N%2007%C2%B047%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.79017/61.42791",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "275",
+    "name": "Tverrbytthornet",
+    "MASL": "2102",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′29″N 08°18′27″Ø",
+      "UTM": "463200 6825150",
+      "longitude": "8.30741",
+      "latitude": "61.55811"
+    },
+    "uid": "3f3115b81163a814d281f9395291160b998f5da8be520ad06dcddeaff7e9bc67",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B229%E2%80%B3N%2008%C2%B018%E2%80%B227%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.30741/61.55811",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "150",
+    "name": "Skarddalstinden",
+    "MASL": "2100",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°29′21″N 08°19′13″Ø",
+      "UTM": "463800 6817450",
+      "longitude": "8.32021",
+      "latitude": "61.48904"
+    },
+    "uid": "31047ad0e3f6267902106b33a64c7b2b5dbb6f2f507ed82d7818fb50e6f521ca",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B029%E2%80%B221%E2%80%B3N%2008%C2%B019%E2%80%B213%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.32021/61.48904",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Austanbottstind, V-1",
+    "MASL": "2100",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°25′58″N 07°47′21″Ø",
+      "UTM": "435400 6811600",
+      "longitude": "7.78904",
+      "latitude": "61.43284"
+    },
+    "uid": "0c53f86ff37b961a554eeda5c3abaa2cdd36d4427a3bab903ee555fa6aaff776",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B258%E2%80%B3N%2007%C2%B047%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.78904/61.43284",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Bakarste Skagsnebb",
+    "MASL": "2093",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′06″N 08°07′52″Ø",
+      "UTM": "453900 6830100",
+      "longitude": "8.13115",
+      "latitude": "61.60154"
+    },
+    "uid": "f526e8d72f02b92adb2e40f14c9e04e0392466a0e9f5ca7fbcc6662d0df6152e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B206%E2%80%B3N%2008%C2%B007%E2%80%B252%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.13115/61.60154",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "120",
+    "name": "Veslbreatinden",
+    "MASL": "2092",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′36″N 08°06′42″Ø",
+      "UTM": "452850 6829200",
+      "longitude": "8.11160",
+      "latitude": "61.59333"
+    },
+    "uid": "9732744a586bd6853f1f717979514933d35a7e2e090f32aa002d5125494e5e93",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B236%E2%80%B3N%2008%C2%B006%E2%80%B242%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11160/61.59333",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "660",
+    "name": "Hestdalshøgdi",
+    "MASL": "2091",
+    "map": "1518 IV «Pollfoss»",
+    "coordinates": {
+      "DMS": "61°48′02″N 08°02′11″Ø",
+      "UTM": "449200 6852350",
+      "longitude": "8.03638",
+      "latitude": "61.80066"
+    },
+    "uid": "8b3a0e7d9476054d563248bcc80c7f1faa166a403ca88bc3df514630b82c218f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B048%E2%80%B202%E2%80%B3N%2008%C2%B002%E2%80%B211%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.03638/61.80066",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Trollsteinhøe, Austre",
+    "MASL": "2090",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°42′17″N 08°36′21″Ø",
+      "UTM": "479150 6841350",
+      "longitude": "8.60574",
+      "latitude": "61.70472"
+    },
+    "uid": "26e51ad8b9c690ec7ad3dc23b8f2e2ae1f30a50ace367f7a3dc311899741f1d2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B042%E2%80%B217%E2%80%B3N%2008%C2%B036%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.60574/61.70472",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "650",
+    "name": "Tverrådalskyrkja",
+    "MASL": "2089",
+    "map": "1418 II «Mørkrisdalen»",
+    "coordinates": {
+      "DMS": "61°44′35″N 07°41′13″Ø",
+      "UTM": "430650 6846250",
+      "longitude": "7.68694",
+      "latitude": "61.74299"
+    },
+    "uid": "d812a8701e5658de938b6ff7c270d5761f052ca90fb00de55dd9b596adebcacc",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B235%E2%80%B3N%2007%C2%B041%E2%80%B213%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.68694/61.74299",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Nautgardsoksle",
+    "MASL": "2089",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°36′37″N 08°44′00″Ø",
+      "UTM": "485850 6830800",
+      "longitude": "8.73324",
+      "latitude": "61.61032"
+    },
+    "uid": "7f9c01b1ece10fb2b0550f438276dba1fadbb249a3c9ca7d4bda5e3c21e06f0d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B237%E2%80%B3N%2008%C2%B044%E2%80%B200%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.73324/61.61032",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Glitterrundhøe",
+    "MASL": "2089",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°38′19″N 08°31′38″Ø",
+      "UTM": "474950 6834000",
+      "longitude": "8.52733",
+      "latitude": "61.63849"
+    },
+    "uid": "94b027be02727a9538978e9222b36a1ec2a64ed8840841b3b7711e1e80c1b53b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B219%E2%80%B3N%2008%C2%B031%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.52733/61.63849",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "415",
+    "name": "Rauddalstinden, Ø-3",
+    "MASL": "2086",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°29′21″N 08°15′53″Ø",
+      "UTM": "460850 6817500",
+      "longitude": "8.26481",
+      "latitude": "61.48921"
+    },
+    "uid": "ee8b596ad7e98950be7502035071e25e35813ecc62d3548fa1f98983dad90a85",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B029%E2%80%B221%E2%80%B3N%2008%C2%B015%E2%80%B253%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26481/61.48921",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Torfinnstinden, V",
+    "MASL": "2090",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°22′29″N 08°34′07″Ø",
+      "UTM": "476950 6804600",
+      "longitude": "8.56873",
+      "latitude": "61.37470"
+    },
+    "uid": "fce58e71e7a5629039abdd05f791a6e0ac0b100090e9129839706b8be2435e10",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B022%E2%80%B229%E2%80%B3N%2008%C2%B034%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.56873/61.37470",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "160",
+    "name": "Langvasstinden, Store",
+    "MASL": "2085",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°18′58″N 09°12′09″Ø",
+      "UTM": "510500 6909400",
+      "longitude": "9.20257",
+      "latitude": "62.31600"
+    },
+    "uid": "fd504bfefe073bb58c97e23f2d01d3d1d4f19f834869de590af67134fd46c07d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B018%E2%80%B258%E2%80%B3N%2009%C2%B012%E2%80%B209%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.20257/62.31600",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "170",
+    "name": "Soleibotntinden, Store",
+    "MASL": "2083",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′52″N 07°47′12″Ø",
+      "UTM": "435300 6813250",
+      "longitude": "7.78659",
+      "latitude": "61.44763"
+    },
+    "uid": "a9b995873a5d3b81bc0299044e5997441962a90212c74afd3e9132daeba739a9",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B252%E2%80%B3N%2007%C2%B047%E2%80%B212%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.78659/61.44763",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "760",
+    "name": "Lodalskåpa",
+    "MASL": "2083",
+    "map": "1418 IV «Lodalskåpa»",
+    "coordinates": {
+      "DMS": "61°47′26″N 07°12′18″Ø",
+      "UTM": "405350 6852150",
+      "longitude": "7.20507",
+      "latitude": "61.79051"
+    },
+    "uid": "39fba65ea886f3861152b9f775a66956aec009762d734c932694a6e986d7c42e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B047%E2%80%B226%E2%80%B3N%2007%C2%B012%E2%80%B218%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.20507/61.79051",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "45",
+    "name": "Urdadalstinden, SV-1",
+    "MASL": "2080",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′39″N 08°21′32″Ø",
+      "UTM": "465900 6821700",
+      "longitude": "8.35886",
+      "latitude": "61.52739"
+    },
+    "uid": "1c1a634dd8717aa1bcec69a89fdcb4da028e43bff0fde7c3f8db9d4460c12e60",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B239%E2%80%B3N%2008%C2%B021%E2%80%B232%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.35886/61.52739",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Leirungskampen",
+    "MASL": "2079",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°23′45″N 08°36′04″Ø",
+      "UTM": "478700 6806950",
+      "longitude": "8.60121",
+      "latitude": "61.39589"
+    },
+    "uid": "7903cec3368291fbd63fd694199b832d13ae6fe1e660512763256c1f6e6a5c7d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B245%E2%80%B3N%2008%C2%B036%E2%80%B204%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.60121/61.39589",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Hestbrepiggen, V-3",
+    "MASL": "2078",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°43′41″N 07°59′39″Ø",
+      "UTM": "446850 6844300",
+      "longitude": "7.99417",
+      "latitude": "61.72808"
+    },
+    "uid": "5b02f2772bae783fbf8fd2f77337802ff8ca407548d2673eb09779344c2dc5fe",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B043%E2%80%B241%E2%80%B3N%2007%C2%B059%E2%80%B239%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.99417/61.72808",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Kniven, S",
+    "MASL": "2077",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′56″N 08°07′35″Ø",
+      "UTM": "453600 6826100",
+      "longitude": "8.12651",
+      "latitude": "61.56560"
+    },
+    "uid": "6719d21ea9049773026794f93f7a9ad0384ede87eea5dd65b5e5f6945b91eddd",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B256%E2%80%B3N%2008%C2%B007%E2%80%B235%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12651/61.56560",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "390",
+    "name": "Galdeberget",
+    "MASL": "2075",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°22′50″N 08°26′32″Ø",
+      "UTM": "470200 6805300",
+      "longitude": "8.44234",
+      "latitude": "61.38052"
+    },
+    "uid": "b9b86d8761803fc13935b59eb101ef3528500c58813538d41ee27c582ad47c6b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B022%E2%80%B250%E2%80%B3N%2008%C2%B026%E2%80%B232%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.44234/61.38052",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "640",
+    "name": "Stølsnostinden",
+    "MASL": "2074",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°23′46″N 08°04′13″Ø",
+      "UTM": "450350 6807250",
+      "longitude": "8.07040",
+      "latitude": "61.39600"
+    },
+    "uid": "fbaab3d4a43dcbf92205a7cc5c1e064e4bafef7c0f9a39f7e30bb3baecc398b4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B246%E2%80%B3N%2008%C2%B004%E2%80%B213%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.07040/61.39600",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "60",
+    "name": "Dyrhaugstinden, Søre",
+    "MASL": "2072",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°27′19″N 07°50′40″Ø",
+      "UTM": "438400 6814050",
+      "longitude": "7.84445",
+      "latitude": "61.45532"
+    },
+    "uid": "4faa576286dab0d414d955aa24a0b216d71b7826c3054233047188601ea99fa6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B219%E2%80%B3N%2007%C2%B050%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.84445/61.45532",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Kvassryggen",
+    "MASL": "2071",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°27′34″N 08°40′52″Ø",
+      "UTM": "483000 6814000",
+      "longitude": "8.68107",
+      "latitude": "61.45939"
+    },
+    "uid": "332ceb6eb42e3530ae36ce98dc60738ed4f822815ebcc50f30ed84a8ef6b349b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B234%E2%80%B3N%2008%C2%B040%E2%80%B252%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.68107/61.45939",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "300",
+    "name": "Lomseggje",
+    "MASL": "2068",
+    "map": "1518 I «Skjåk»",
+    "coordinates": {
+      "DMS": "61°49′11″N 08°22′01″Ø",
+      "UTM": "466650 6854250",
+      "longitude": "8.36701",
+      "latitude": "61.81964"
+    },
+    "uid": "dab7ecbdf4ca985defd493792c16581f0a89a1e3953d193943664a340470e6be",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B049%E2%80%B211%E2%80%B3N%2008%C2%B022%E2%80%B201%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.36701/61.81964",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "450",
+    "name": "Fannaråki",
+    "MASL": "2068",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°30′59″N 07°54′29″Ø",
+      "UTM": "441900 6820800",
+      "longitude": "7.90797",
+      "latitude": "61.51644"
+    },
+    "uid": "fe5838224868c691e50d081d6df3f21d5c552e95813a29b103ffd0d6f8fed5d4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B030%E2%80%B259%E2%80%B3N%2007%C2%B054%E2%80%B229%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.90797/61.51644",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "55",
+    "name": "Svartholshøi",
+    "MASL": "2067",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°40′51″N 08°33′42″Ø",
+      "UTM": "476800 6838700",
+      "longitude": "8.56164",
+      "latitude": "61.68080"
+    },
+    "uid": "a25e57f32d60b0209f4c6c1a885b24052eed8c2cbf9a4a68c44df190e984a515",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B040%E2%80%B251%E2%80%B3N%2008%C2%B033%E2%80%B242%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.56164/61.68080",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "175",
+    "name": "Falketind",
+    "MASL": "2067",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°23′04″N 08°05′49″Ø",
+      "UTM": "451750 6805950",
+      "longitude": "8.09694",
+      "latitude": "61.38450"
+    },
+    "uid": "4a2c9923fb41df20804d49731e63fb5393254e4c9a570b2c8bc0b2fea8e91e34",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B204%E2%80%B3N%2008%C2%B005%E2%80%B249%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.09694/61.38450",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "460",
+    "name": "Høgvagltinden, M",
+    "MASL": "2066",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°30′19″N 08°15′38″Ø",
+      "UTM": "460650 6819300",
+      "longitude": "8.26067",
+      "latitude": "61.50534"
+    },
+    "uid": "49ffcce2192e7d152e8b6a88e6f2883a05fd2ee69d53b3824b86bab3b05e62d6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B030%E2%80%B219%E2%80%B3N%2008%C2%B015%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26067/61.50534",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "55",
+    "name": "Svartdalspiggen, S",
+    "MASL": "2065",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′12″N 08°30′40″Ø",
+      "UTM": "473900 6807800",
+      "longitude": "8.51122",
+      "latitude": "61.40323"
+    },
+    "uid": "9285b95fcc06b9ab240c378676e20f939f58298fea5b153f8c37c127246ad0b6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B212%E2%80%B3N%2008%C2%B030%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.51122/61.40323",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Svartdalspiggen, M",
+    "MASL": "2065",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°24′29″N 08°30′37″Ø",
+      "UTM": "473850 6808350",
+      "longitude": "8.51021",
+      "latitude": "61.40816"
+    },
+    "uid": "02b12bf93649558d08b3c900b8d787649ed08f56c60f8fe3bc582ec2c4e121df",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B024%E2%80%B229%E2%80%B3N%2008%C2%B030%E2%80%B237%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.51021/61.40816",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "770",
+    "name": "Kvitingskjølen, Store",
+    "MASL": "2064",
+    "map": "1618 IV «Lom»",
+    "coordinates": {
+      "DMS": "61°45′45″N 08°44′09″Ø",
+      "UTM": "486050 6847750",
+      "longitude": "8.73572",
+      "latitude": "61.76249"
+    },
+    "uid": "5b966f47d3367151bbc7c9c4240c2b766771cbdcd1586b1f0021ac1ed98c1b45",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B045%E2%80%B245%E2%80%B3N%2008%C2%B044%E2%80%B209%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.73572/61.76249",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Geite, V",
+    "MASL": "2064",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′41″N 08°08′50″Ø",
+      "UTM": "454700 6825600",
+      "longitude": "8.14734",
+      "latitude": "61.56124"
+    },
+    "uid": "7c6da3335b6e953056f8e7c978ae3176e7155befbcaf85cb7604e66329ab7a8e",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B241%E2%80%B3N%2008%C2%B008%E2%80%B250%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.14734/61.56124",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Midtmaradalstinden, N-1",
+    "MASL": "2062",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′58″N 07°50′37″Ø",
+      "UTM": "438350 6813400",
+      "longitude": "7.84373",
+      "latitude": "61.44947"
+    },
+    "uid": "ce1d4a7b758be601231eefca90bae9fb0a9a8ac632952f7b8dd7c5831823d6cf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B258%E2%80%B3N%2007%C2%B050%E2%80%B237%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.84373/61.44947",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Urdadalstinden, M",
+    "MASL": "2060",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′34″N 08°23′06″Ø",
+      "UTM": "467300 6823400",
+      "longitude": "8.38488",
+      "latitude": "61.54277"
+    },
+    "uid": "7ea9801f7421166b8358830bc462b9cbfbfa61d4a74bceec6c2666de57a96c18",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B234%E2%80%B3N%2008%C2%B023%E2%80%B206%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.38488/61.54277",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "290",
+    "name": "Midtronden, V",
+    "MASL": "2060",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°56′39″N 09°51′31″Ø",
+      "UTM": "545050 6868250",
+      "longitude": "9.85855",
+      "latitude": "61.94409"
+    },
+    "uid": "ee7bef61f9b8bad2e02bc32f1de81f180c990e4aa61fb44c9debdb6800cfe599",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B056%E2%80%B239%E2%80%B3N%2009%C2%B051%E2%80%B231%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.85855/61.94409",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Kvitingskjølen, V",
+    "MASL": "2060",
+    "map": "1618 IV «Lom»",
+    "coordinates": {
+      "DMS": "61°45′35″N 08°41′52″Ø",
+      "UTM": "484050 6847450",
+      "longitude": "8.69785",
+      "latitude": "61.75972"
+    },
+    "uid": "b41ebef37ef47ce552ace9a297acb387d74e57bfd306e3a357190eb1e1c962e9",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B045%E2%80%B235%E2%80%B3N%2008%C2%B041%E2%80%B252%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.69785/61.75972",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Hurrbreatinden",
+    "MASL": "2060",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′54″N 08°06′38″Ø",
+      "UTM": "452800 6829750",
+      "longitude": "8.11052",
+      "latitude": "61.59826"
+    },
+    "uid": "13a73b8e505b485fa933433edb84ddb58e66b57d0b8cfb9d3de4cbef7a201f10",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B254%E2%80%B3N%2008%C2%B006%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11052/61.59826",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Rauddalstinden, V-1",
+    "MASL": "2059",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°30′05″N 08°10′34″Ø",
+      "UTM": "456150 6818900",
+      "longitude": "8.17622",
+      "latitude": "61.50127"
+    },
+    "uid": "acf98d07cd1004a38d125d0c896370e91fbcc0a7b66705e6bc1a10ccde323baf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B030%E2%80%B205%E2%80%B3N%2008%C2%B010%E2%80%B234%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.17622/61.50127",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "55",
+    "name": "Bukkeholstindan, Søre",
+    "MASL": "2058",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°34′31″N 08°19′30″Ø",
+      "UTM": "464150 6827050",
+      "longitude": "8.32491",
+      "latitude": "61.57525"
+    },
+    "uid": "5437b603d7758296955f442d8ba342ad2e81ffa3563e1e7d11a2c220dcad7a6c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B034%E2%80%B231%E2%80%B3N%2008%C2%B019%E2%80%B230%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.32491/61.57525",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "300",
+    "name": "Midtmaradalstinden, Store",
+    "MASL": "2056",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′32″N 07°52′16″Ø",
+      "UTM": "439800 6812550",
+      "longitude": "7.87119",
+      "latitude": "61.44207"
+    },
+    "uid": "5ac79f6f964341e2c61643659bc4e5e8fe1982979ef90e03d82fe2ce8e459ea8",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B232%E2%80%B3N%2007%C2%B052%E2%80%B216%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.87119/61.44207",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "95",
+    "name": "Stornubben, NØ",
+    "MASL": "2049",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°38′13″N 08°48′44″Ø",
+      "UTM": "490050 6833750",
+      "longitude": "8.81226",
+      "latitude": "61.63694"
+    },
+    "uid": "7b838cc30368678ce9adeb5d0dfc11cd5aa94b3b46ec23c3d98486759580c6eb",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B038%E2%80%B213%E2%80%B3N%2008%C2%B048%E2%80%B244%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.81226/61.63694",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Soleibotntinden, S-2",
+    "MASL": "2049",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′39″N 07°47′32″Ø",
+      "UTM": "435600 6812850",
+      "longitude": "7.79236",
+      "latitude": "61.44409"
+    },
+    "uid": "62ce93b5f8f5901eb3d39062ab0fed839ab13ea780b599ec4991b8be2695aff6",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B239%E2%80%B3N%2007%C2%B047%E2%80%B232%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.79236/61.44409",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "55",
+    "name": "Uranostinden S2",
+    "MASL": "2048",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°25′13″N 08°09′11″Ø",
+      "UTM": "454800 6809900",
+      "longitude": "8.15306",
+      "latitude": "61.42033"
+    },
+    "uid": "9210581a8f8ed1865ac15b617e451bceed024fa626b1b22558d6b807c704667b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B213%E2%80%B3N%2008%C2%B009%E2%80%B211%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.15306/61.42033",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "220",
+    "name": "Midtre Holåtinden",
+    "MASL": "2047",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°44′34″N 07°52′11″Ø",
+      "UTM": "440300 6846050",
+      "longitude": "7.86967",
+      "latitude": "61.74283"
+    },
+    "uid": "47ffba8832cd1f0fa4b0d895b6d7635bed99c64d3793aae8ef5a34e3f3fd50e5",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B234%E2%80%B3N%2007%C2%B052%E2%80%B211%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.86967/61.74283",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "35",
+    "name": "Langvasstinden, Store",
+    "MASL": "2046",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°18′56″N 09°11′38″Ø",
+      "UTM": "510050 6909350",
+      "longitude": "9.19389",
+      "latitude": "62.31556"
+    },
+    "uid": "556d336534757afa8cef566082881f6574a80e6e94b04fe175db08ac9fa18aef",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B018%E2%80%B256%E2%80%B3N%2009%C2%B011%E2%80%B238%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.19389/62.31556",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Smørstabbtinden, SV-1",
+    "MASL": "2045",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′59″N 08°06′21″Ø",
+      "UTM": "452450 6822500",
+      "longitude": "8.10580",
+      "latitude": "61.53314"
+    },
+    "uid": "cc10557ad904764c2bfd7d7f0500f3bf79ddb1bbe18a6c3c255a23f008980d15",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B259%E2%80%B3N%2008%C2%B006%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.10580/61.53314",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Vinjeronden",
+    "MASL": "2044",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°54′14″N 09°50′56″Ø",
+      "UTM": "544600 6863750",
+      "longitude": "9.84885",
+      "latitude": "61.90376"
+    },
+    "uid": "2d37707d4fee9e52e053e2987bda283f09eb9b81812a306978f029d060c61fd2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B054%E2%80%B214%E2%80%B3N%2009%C2%B050%E2%80%B256%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.84885/61.90376",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "145",
+    "name": "Moldulhøi",
+    "MASL": "2044",
+    "map": "1518 I «Skjåk»",
+    "coordinates": {
+      "DMS": "61°48′30″N 08°16′07″Ø",
+      "UTM": "461450 6853050",
+      "longitude": "8.26857",
+      "latitude": "61.80837"
+    },
+    "uid": "835c49469c8a1ee2e97308fbbac6f5856cbe221329c3c8d4b53dc6d5b65adb9c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B048%E2%80%B230%E2%80%B3N%2008%C2%B016%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.26857/61.80837",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "200",
+    "name": "Austre Holåtinden",
+    "MASL": "2043",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°44′50″N 07°54′06″Ø",
+      "UTM": "442000 6846500",
+      "longitude": "7.90170",
+      "latitude": "61.74713"
+    },
+    "uid": "148a7dccb23ceee5b6b630c16d772b6f9fec64c575d034c18fa6ddf9510a87fd",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B250%E2%80%B3N%2007%C2%B054%E2%80%B206%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.90170/61.74713",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Midtronden, Ø",
+    "MASL": "2042",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°56′58″N 09°52′12″Ø",
+      "UTM": "545650 6868850",
+      "longitude": "9.87014",
+      "latitude": "61.94941"
+    },
+    "uid": "bd11ee3b6d7757571bf1db52f589a7a7ee50cb2d35af22bc79b514282b728ba8",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B056%E2%80%B258%E2%80%B3N%2009%C2%B052%E2%80%B212%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.87014/61.94941",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Eggen",
+    "MASL": "2041",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°27′45″N 08°39′17″Ø",
+      "UTM": "481600 6814350",
+      "longitude": "8.65477",
+      "latitude": "61.46247"
+    },
+    "uid": "5de26856c7e728addd1b5d6692d8a852c02947beb47e36f72a587a35fc5f3e3b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B245%E2%80%B3N%2008%C2%B039%E2%80%B217%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.65477/61.46247",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "250",
+    "name": "Sagi, S",
+    "MASL": "2040",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°26′37″N 08°09′39″Ø",
+      "UTM": "455250 6812500",
+      "longitude": "8.16086",
+      "latitude": "61.44372"
+    },
+    "uid": "5349b02e49dd980397702b845b8803a090d5b8be6a1424917d9e6af912096814",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B237%E2%80%B3N%2008%C2%B009%E2%80%B239%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.16086/61.44372",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "130",
+    "name": "Mjølkedalspiggan",
+    "MASL": "2040",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°26′36″N 08°10′53″Ø",
+      "UTM": "456350 6812450",
+      "longitude": "8.18150",
+      "latitude": "61.44339"
+    },
+    "uid": "46fff4f26cd08967ffbc16bc82ad92ce98cce6953c2ba980f8b02ce0707056ce",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B236%E2%80%B3N%2008%C2%B010%E2%80%B253%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.18150/61.44339",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "150",
+    "name": "Vestre Holåtinden",
+    "MASL": "2039",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°44′35″N 07°50′35″Ø",
+      "UTM": "438900 6846100",
+      "longitude": "7.84315",
+      "latitude": "61.74305"
+    },
+    "uid": "a7e73adc4ee266e36a547d56e2475a1634cc6641436dad916796b6198cd9a417",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B235%E2%80%B3N%2007%C2%B050%E2%80%B235%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.84315/61.74305",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "45",
+    "name": "Tverrådalskyrkja, S",
+    "MASL": "2033",
+    "map": "1418 II «Mørkrisdalen»",
+    "coordinates": {
+      "DMS": "61°44′14″N 07°40′50″Ø",
+      "UTM": "430300 6845600",
+      "longitude": "7.68056",
+      "latitude": "61.73710"
+    },
+    "uid": "a13d753c0fbcb270e70c5afdbca73e6efd1c5eb6bf9cfa3e8f6dfb9ed0ada6d5",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B044%E2%80%B214%E2%80%B3N%2007%C2%B040%E2%80%B250%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.68056/61.73710",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Kalven",
+    "MASL": "2034",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′14″N 08°06′19″Ø",
+      "UTM": "452450 6824800",
+      "longitude": "8.10520",
+      "latitude": "61.55379"
+    },
+    "uid": "d3e994c28ab76a8fcae8e765025c76e5b29c1858bbb3babc08ec03052cee76de",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B214%E2%80%B3N%2008%C2%B006%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.10520/61.55379",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "140",
+    "name": "Spiterhøi",
+    "MASL": "2033",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′45″N 08°26′21″Ø",
+      "UTM": "470250 6831150",
+      "longitude": "8.43911",
+      "latitude": "61.61258"
+    },
+    "uid": "b40e2ccde3f5a5e89a0b5a75fc7b319a8fad9858992adac501fcfaff8418ca5f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B245%E2%80%B3N%2008%C2%B026%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.43911/61.61258",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Smørstabbtinden, S-1",
+    "MASL": "2033",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′52″N 08°07′08″Ø",
+      "UTM": "453150 6822250",
+      "longitude": "8.11902",
+      "latitude": "61.53099"
+    },
+    "uid": "af441494879116b63f032cd76325470e6a9f455e790b3d6fcdd9cc06d0c4314a",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B252%E2%80%B3N%2008%C2%B007%E2%80%B208%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11902/61.53099",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Slettmarkkampen",
+    "MASL": "2032",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°23′55″N 08°26′58″Ø",
+      "UTM": "470600 6807300",
+      "longitude": "8.44951",
+      "latitude": "61.39851"
+    },
+    "uid": "2bf5e4c4526b5d10c06cd9e64f702fc0890d26e8d95be42ccadd6f89387edf2f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B255%E2%80%B3N%2008%C2%B026%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.44951/61.39851",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "280",
+    "name": "Kyrkja",
+    "MASL": "2032",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′29″N 08°17′30″Ø",
+      "UTM": "462350 6823300",
+      "longitude": "8.29179",
+      "latitude": "61.54142"
+    },
+    "uid": "a2fc60a8cbac827a8d033bf6d29a12a400467436c45e23ffa8a5cd8d91859d89",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B229%E2%80%B3N%2008%C2%B017%E2%80%B230%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.29179/61.54142",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Soleibotntinden, N-1",
+    "MASL": "2030",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′56″N 07°47′25″Ø",
+      "UTM": "435500 6813400",
+      "longitude": "7.79029",
+      "latitude": "61.44901"
+    },
+    "uid": "b9f97c6a80a9b932af386cd3f8b48e265e61a9b796a2aec31f0b2fc95d4f6a4d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B256%E2%80%B3N%2007%C2%B047%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.79029/61.44901",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Smørstabbtinden, SØ",
+    "MASL": "2030",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′06″N 08°07′25″Ø",
+      "UTM": "453400 6822700",
+      "longitude": "8.12361",
+      "latitude": "61.53506"
+    },
+    "uid": "6f1b8e8d1253c41285ccb38e50ce1f85a56649b86defa3eb94acadec5302bc8f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B206%E2%80%B3N%2008%C2%B007%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12361/61.53506",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Langvasshøi",
+    "MASL": "2030",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′28″N 08°19′20″Ø",
+      "UTM": "463950 6821400",
+      "longitude": "8.32225",
+      "latitude": "61.52452"
+    },
+    "uid": "3b858122e70d0e7ac9901116560cb275dac419b9d44abaafae93c48955bd17e4",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B228%E2%80%B3N%2008%C2%B019%E2%80%B220%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.32225/61.52452",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Slingsbytinden",
+    "MASL": "2026",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°26′05″N 08°08′36″Ø",
+      "UTM": "454300 6811500",
+      "longitude": "8.14330",
+      "latitude": "61.43463"
+    },
+    "uid": "8971241a774bd6a2030410615592637f076dcc58c30d131031f2c217a435d8f3",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B205%E2%80%B3N%2008%C2%B008%E2%80%B236%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.14330/61.43463",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "210",
+    "name": "Stølsmaradalstinden",
+    "MASL": "2026",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°25′56″N 07°49′59″Ø",
+      "UTM": "437750 6811500",
+      "longitude": "7.83312",
+      "latitude": "61.43233"
+    },
+    "uid": "e5c448dc0bb637598b97f27f443623d6525a19bf9e2b46c95f5d6eafdfcf0503",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B256%E2%80%B3N%2007%C2%B049%E2%80%B259%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.83312/61.43233",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "180",
+    "name": "Steindalsnosi",
+    "MASL": "2025",
+    "map": "1518 III «Sygnefjell»",
+    "coordinates": {
+      "DMS": "61°31′36″N 07°54′14″Ø",
+      "UTM": "441700 6821950",
+      "longitude": "7.90385",
+      "latitude": "61.52673"
+    },
+    "uid": "a1e3709a3eab94f7b5a0382cdc6652d35461bede05af066e5c1ff31b6dbf9d19",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B236%E2%80%B3N%2007%C2%B054%E2%80%B214%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.90385/61.52673",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "265",
+    "name": "Ringstinden, Midtre",
+    "MASL": "2025",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′33″N 07°49′41″Ø",
+      "UTM": "437500 6812650",
+      "longitude": "7.82804",
+      "latitude": "61.44261"
+    },
+    "uid": "9235a6cbaed06305037a77ffbe8b5992a8143b5f36a98c971d519f202364b0f1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B233%E2%80%B3N%2007%C2%B049%E2%80%B241%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.82804/61.44261",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "210",
+    "name": "Hesthøi",
+    "MASL": "2021",
+    "map": "1518 I «Skjåk»",
+    "coordinates": {
+      "DMS": "61°46′40″N 08°11′33″Ø",
+      "UTM": "457400 6849700",
+      "longitude": "8.19253",
+      "latitude": "61.77787"
+    },
+    "uid": "dd8ac06ca41445e46cbf0b39cbb9940c902b3a9ff56401f75bc6a696ae8da976",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B046%E2%80%B240%E2%80%B3N%2008%C2%B011%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.19253/61.77787",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "445",
+    "name": "Stetinden",
+    "MASL": "2020",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′51″N 08°11′41″Ø",
+      "UTM": "457200 6824050",
+      "longitude": "8.19475",
+      "latitude": "61.54761"
+    },
+    "uid": "81f776e676686d4dcd580c7ea0bb028071690b510bc5e892db5aafb8ef1767ee",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B251%E2%80%B3N%2008%C2%B011%E2%80%B241%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.19475/61.54761",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "80",
+    "name": "Tverrådalskyrkja, S-2 («Steinkollen»)",
+    "MASL": "2020",
+    "map": "1418 II «Mørkrisdalen»",
+    "coordinates": {
+      "DMS": "61°43′45″N 07°40′58″Ø",
+      "UTM": "430400 6844700",
+      "longitude": "7.68280",
+      "latitude": "61.72904"
+    },
+    "uid": "cbe4884c6011d2f4ca775a7b7387ee81c2b41bb0b63799aa69cadc8e55c1baf1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B043%E2%80%B245%E2%80%B3N%2007%C2%B040%E2%80%B258%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.68280/61.72904",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "110",
+    "name": "Kalvehølotinden, N",
+    "MASL": "2019",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°22′17″N 08°37′53″Ø",
+      "UTM": "480300 6804200",
+      "longitude": "8.63145",
+      "latitude": "61.37129"
+    },
+    "uid": "fe813e64936f1ad0ca41d9af2583cfa6bf8ec8287012656bfc6c645feb2a4120",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B022%E2%80%B217%E2%80%B3N%2008%C2%B037%E2%80%B253%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.63145/61.37129",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "780",
+    "name": "Trolltinden",
+    "MASL": "2018",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°55′10″N 09°42′30″Ø",
+      "UTM": "537200 6865400",
+      "longitude": "9.70837",
+      "latitude": "61.91936"
+    },
+    "uid": "d1bdf390b516d80f988ad2f3bbbf13d4d617b54df8d86ca09772f09d89c5a531",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B055%E2%80%B210%E2%80%B3N%2009%C2%B042%E2%80%B230%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.70837/61.91936",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "90",
+    "name": "Storbreatinden",
+    "MASL": "2018",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′14″N 08°07′33″Ø",
+      "UTM": "453600 6828500",
+      "longitude": "8.12591",
+      "latitude": "61.58714"
+    },
+    "uid": "3bc379485b24363b61ef8da941c104397157d7b8a3dbe4afdd6387c6463ebadf",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B214%E2%80%B3N%2008%C2%B007%E2%80%B233%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.12591/61.58714",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "100",
+    "name": "Grotbreahesten",
+    "MASL": "2018",
+    "map": "1618 III «Glittertinden»",
+    "coordinates": {
+      "DMS": "61°40′29″N 08°34′40″Ø",
+      "UTM": "477650 6838000",
+      "longitude": "8.57778",
+      "latitude": "61.67457"
+    },
+    "uid": "7d52fdd39dd89d05c0b24175679bf39b48259178289aa1dc1654b27b554d4f7f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B040%E2%80%B229%E2%80%B3N%2008%C2%B034%E2%80%B240%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.57778/61.67457",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "300",
+    "name": "Brenibba",
+    "MASL": "2017",
+    "map": "1418 IV «Lodalskåpa»",
+    "coordinates": {
+      "DMS": "61°45′52″N 07°11′39″Ø",
+      "UTM": "404700 6849250",
+      "longitude": "7.19428",
+      "latitude": "61.76433"
+    },
+    "uid": "8e58dd3142ca7c5d7433c50b10cf35155819b60d09d78e18558face93e832b1b",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B045%E2%80%B252%E2%80%B3N%2007%C2%B011%E2%80%B239%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.19428/61.76433",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "270",
+    "name": "Storsmeden",
+    "MASL": "2016",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°54′34″N 09°44′22″Ø",
+      "UTM": "538850 6864300",
+      "longitude": "9.73955",
+      "latitude": "61.90932"
+    },
+    "uid": "01b717fde05f704fbe3477fdc120ae189af4f597d7dcb568e088d22f0ed306fb",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B054%E2%80%B234%E2%80%B3N%2009%C2%B044%E2%80%B222%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.73955/61.90932",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "125",
+    "name": "Rauddalseggje, Ø-1",
+    "MASL": "2016",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°27′46″N 08°20′02″Ø",
+      "UTM": "464500 6814500",
+      "longitude": "8.33392",
+      "latitude": "61.46263"
+    },
+    "uid": "4e40c5c074a90c49a65778c17bf69257e849421b94699f64fe2e36877a93d62c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B027%E2%80%B246%E2%80%B3N%2008%C2%B020%E2%80%B202%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.33392/61.46263",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "200",
+    "name": "Veslesmeden",
+    "MASL": "2015",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°54′59″N 09°45′25″Ø",
+      "UTM": "539750 6865100",
+      "longitude": "9.75686",
+      "latitude": "61.91641"
+    },
+    "uid": "63e594d6df97da1c0fc5010ef22c6be8d9b59d408e5c37bc01b4934e9b63b843",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B054%E2%80%B259%E2%80%B3N%2009%C2%B045%E2%80%B225%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.75686/61.91641",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "190",
+    "name": "Digerronden",
+    "MASL": "2015",
+    "map": "1718 I «Rondane»",
+    "coordinates": {
+      "DMS": "61°57′05″N 09°49′52″Ø",
+      "UTM": "543600 6869050",
+      "longitude": "9.83112",
+      "latitude": "61.95144"
+    },
+    "uid": "ebe3138b94464efaf3082e16bc45e1d03f533dd4348add6ca94c24911d39445f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B057%E2%80%B205%E2%80%B3N%2009%C2%B049%E2%80%B252%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.83112/61.95144",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "200",
+    "name": "Langeskavlstinden",
+    "MASL": "2014",
+    "map": "1517 I «Tyin»",
+    "coordinates": {
+      "DMS": "61°25′41″N 08°10′45″Ø",
+      "UTM": "456200 6810750",
+      "longitude": "8.17909",
+      "latitude": "61.42812"
+    },
+    "uid": "ed68753b7bc293165039acbbcd649b6658293d3f36b849a8df9c9e594e870622",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B025%E2%80%B241%E2%80%B3N%2008%C2%B010%E2%80%B245%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.17909/61.42812",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "985",
+    "name": "Gråhø",
+    "MASL": "2014",
+    "map": "1319 II «Tordsvatnet»",
+    "coordinates": {
+      "DMS": "62°04′17″N 08°06′36″Ø",
+      "UTM": "453500 6882450",
+      "longitude": "8.11011",
+      "latitude": "62.07137"
+    },
+    "uid": "fdcde3d2227f6129fe4bebcf72706bb3521e2a8911e07c6f11cbaa98d0ad8950",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B004%E2%80%B217%E2%80%B3N%2008%C2%B006%E2%80%B236%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.11011/62.07137",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "40",
+    "name": "Låven (Hestbrepiggen, NV)",
+    "MASL": "2012",
+    "map": "1518 IV «Pollfoss»",
+    "coordinates": {
+      "DMS": "61°45′10″N 08°03′07″Ø",
+      "UTM": "449950 6847000",
+      "longitude": "8.05208",
+      "latitude": "61.75274"
+    },
+    "uid": "5cb5bf40371d7c3e6e5de503b8f000a4849ec5c1f18dca71ad8dd75014415d02",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B045%E2%80%B210%E2%80%B3N%2008%C2%B003%E2%80%B207%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.05208/61.75274",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Rasletinden, Ø",
+    "MASL": "2010",
+    "map": "1617 IV «Gjende»",
+    "coordinates": {
+      "DMS": "61°23′56″N 08°43′19″Ø",
+      "UTM": "485150 6807250",
+      "longitude": "8.72194",
+      "latitude": "61.39889"
+    },
+    "uid": "c23b8496e65840a95e7f0cc8453d128cd288046b7b3178555597a70e4f801089",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B256%E2%80%B3N%2008%C2%B043%E2%80%B219%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.72194/61.39889",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Urdadalstinden, SV-2",
+    "MASL": "2005",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°31′16″N 08°21′29″Ø",
+      "UTM": "465850 6821000",
+      "longitude": "8.35805",
+      "latitude": "61.52110"
+    },
+    "uid": "037f3bc1b76a18e9c3d6b097520b8d0376e80d704e6659be0a13ce3482c3c3a3",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B031%E2%80%B216%E2%80%B3N%2008%C2%B021%E2%80%B229%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.35805/61.52110",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Svånåtinden, N",
+    "MASL": "2004",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°18′16″N 09°10′46″Ø",
+      "UTM": "509300 6908100",
+      "longitude": "9.17935",
+      "latitude": "62.30436"
+    },
+    "uid": "3fb6f0c5ca7f9caae9e543e94f8559dc6182cbc4b6a474d8d6498ff7f7daf56c",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B018%E2%80%B216%E2%80%B3N%2009%C2%B010%E2%80%B246%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.17935/62.30436",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "380",
+    "name": "Skredahøin",
+    "MASL": "2004",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°15′29″N 09°11′54″Ø",
+      "UTM": "510300 6902950",
+      "longitude": "9.19833",
+      "latitude": "62.25811"
+    },
+    "uid": "2c4d9288bdf88fa0ba7456ec4d8d4882608eef9e03770fb4ac929ce3911a38ae",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B015%E2%80%B229%E2%80%B3N%2009%C2%B011%E2%80%B254%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.19833/62.25811",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "30",
+    "name": "Semelholstinden, N",
+    "MASL": "2004",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°32′22″N 08°20′54″Ø",
+      "UTM": "465350 6823050",
+      "longitude": "8.34826",
+      "latitude": "61.53946"
+    },
+    "uid": "c05199334f95c4ad30f30fe2780943ae2f50201953d47957a2857cfe17de562f",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B032%E2%80%B222%E2%80%B3N%2008%C2%B020%E2%80%B254%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.34826/61.53946",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "50",
+    "name": "Skagsnebb",
+    "MASL": "2003",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°36′22″N 08°08′49″Ø",
+      "UTM": "454750 6830600",
+      "longitude": "8.14705",
+      "latitude": "61.60613"
+    },
+    "uid": "a54e62d220196418a6d02e16a06fee415afda4ac155356bdbc1b97f9004d92e1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B036%E2%80%B222%E2%80%B3N%2008%C2%B008%E2%80%B249%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.14705/61.60613",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "130",
+    "name": "Ringstinden, Austre",
+    "MASL": "2002",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°26′42″N 07°50′21″Ø",
+      "UTM": "438100 6812900",
+      "longitude": "7.83921",
+      "latitude": "61.44495"
+    },
+    "uid": "ee83ea5bbe21ccdac9f68e92921bdfffead84b8c9040e9d3efa6f86ea356ad69",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B026%E2%80%B242%E2%80%B3N%2007%C2%B050%E2%80%B221%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/7.83921/61.44495",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "70",
+    "name": "Geite",
+    "MASL": "2002",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°33′51″N 08°09′41″Ø",
+      "UTM": "455450 6825900",
+      "longitude": "8.16138",
+      "latitude": "61.56402"
+    },
+    "uid": "0a523a357081d2357168db2315fb0ef99fcd1d393d9d49cdd3a8dd857dbaa3b5",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B033%E2%80%B251%E2%80%B3N%2008%C2%B009%E2%80%B241%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.16138/61.56402",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "115",
+    "name": "Stølsnostinden, Ø-1",
+    "MASL": "2001",
+    "map": "1517 IV «Hurrungane»",
+    "coordinates": {
+      "DMS": "61°23′43″N 08°04′51″Ø",
+      "UTM": "450900 6807150",
+      "longitude": "8.08072",
+      "latitude": "61.39517"
+    },
+    "uid": "03e59aad94969534464dea67cf6fe72ed60a259a01ad71e7fde20898eeaf0fb2",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B023%E2%80%B243%E2%80%B3N%2008%C2%B004%E2%80%B251%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.08072/61.39517",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "95",
+    "name": "Storbreahøe",
+    "MASL": "2001",
+    "map": "1518 II «Galdhøpiggen»",
+    "coordinates": {
+      "DMS": "61°35′22″N 08°08′42″Ø",
+      "UTM": "454650 6828750",
+      "longitude": "8.14562",
+      "latitude": "61.58951"
+    },
+    "uid": "ce2716e4b66e2d04205564d68d6e11a9b8ac88b979682c6d75a219f2d4a9514d",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=61%C2%B035%E2%80%B222%E2%80%B3N%2008%C2%B008%E2%80%B242%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/8.14562/61.58951",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  },
+  {
+    "Pf": "150",
+    "name": "Bruri",
+    "MASL": "2001",
+    "map": "1419 I «Storskrymten»",
+    "coordinates": {
+      "DMS": "62°17′49″N 9°12′1″Ø",
+      "UTM": "510400 6907300",
+      "longitude": "9.20052",
+      "latitude": "62.29715"
+    },
+    "uid": "bbe552b340331d93fac85557329fb7bf3489ef046ceffa2f97e399db07da07f1",
+    "norgesKart": "https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=6851883.63&lon=146002.11&markerLat=6851883.634396978&markerLon=146002.11011350987&p=searchOptionsPanel&sok=62%C2%B017%E2%80%B249%E2%80%B3N%209%C2%B012%E2%80%B21%E2%80%B3%C3%98",
+    "gaiaGPS": "https://www.gaiaGPS.com/map/?loc=16.0/9.20052/62.29715",
+    "group": null,
+    "county": null,
+    "commune": null,
+    "nationalPark": null
+  }
+]
